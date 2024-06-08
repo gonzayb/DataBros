@@ -25,7 +25,7 @@
 3200000;No obtuvo;No pobre
 800000;No obtuvo;Pobre no extremo
 0;Técnica Superior;No pobre
-Militar/Policial (Post no universitario)00000;Técnica Superior;No pobre
+1200000;Técnica Superior;No pobre
 2500000;Superior Universitario;No pobre
 2500000;No obtuvo;No pobre
 0;Superior Universitario;No pobre
@@ -66,7 +66,7 @@ Militar/Policial (Post no universitario)00000;Técnica Superior;No pobre
 0;Especialización (Post universitario);No pobre
 4000000;Superior Universitario;No pobre
 4000000;Superior Universitario;No pobre
-No Técnico Superior (Post no universitario)000000;No obtuvo;No pobre
+13000000;No obtuvo;No pobre
 4000000;No obtuvo;No pobre
 4200000;No obtuvo;No pobre
 3000000;Superior Universitario;No pobre
@@ -203,7 +203,7 @@ No Técnico Superior (Post no universitario)000000;No obtuvo;No pobre
 4800000;Superior Universitario;No pobre
 8416000;Superior Universitario;No pobre
 2716000;No obtuvo;No pobre
-No Técnico Superior (Post no universitario)80000;No obtuvo;No pobre
+1380000;No obtuvo;No pobre
 2700000;No obtuvo;No pobre
 2900000;No obtuvo;No pobre
 2680000;No obtuvo;No pobre
@@ -219,7 +219,7 @@ No Técnico Superior (Post no universitario)80000;No obtuvo;No pobre
 5000000;Superior Universitario;No pobre
 4500000;Superior Universitario;No pobre
 200000;No obtuvo;No pobre
-3No obtuvo0000;No obtuvo;No pobre
+3140000;No obtuvo;No pobre
 3600000;Superior Universitario;No pobre
 4500000;Superior Universitario;No pobre
 300000;No obtuvo;No pobre
@@ -271,7 +271,7 @@ No Técnico Superior (Post no universitario)80000;No obtuvo;No pobre
 2500000;Especialización (Post universitario);No pobre
 0;No obtuvo;No pobre
 8000000;Superior Universitario;No pobre
-Militar/Policial (Post no universitario)000000;Superior Universitario;No pobre
+12000000;Superior Universitario;No pobre
 0;No obtuvo;No pobre
 0;Maestría (Post universitario);No pobre
 3400000;No obtuvo;No pobre
@@ -306,7 +306,7 @@ Militar/Policial (Post no universitario)000000;Superior Universitario;No pobre
 1800000;No obtuvo;No pobre
 0;Superior Universitario;No pobre
 5000000;Superior Universitario;No pobre
-No obtuvo00000;No obtuvo;No pobre
+1400000;No obtuvo;No pobre
 2400000;No obtuvo;No pobre
 2600000;Superior Universitario;No pobre
 2600000;No obtuvo;No pobre
@@ -350,7 +350,7 @@ No obtuvo00000;No obtuvo;No pobre
 3100000;No obtuvo;No pobre
 0;No obtuvo;No pobre
 0;Superior Universitario;No pobre
-No obtuvo00000;Superior Universitario;No pobre
+1400000;Superior Universitario;No pobre
 7000000;Superior Universitario;No pobre
 0;No obtuvo;No pobre
 2500000;Superior Universitario;No pobre
@@ -395,7 +395,7 @@ No obtuvo00000;Superior Universitario;No pobre
 2400000;No obtuvo;No pobre
 5100000;Superior Universitario;No pobre
 4540000;Superior Universitario;No pobre
-Militar/Policial (Post no universitario)000000;Superior Universitario;No pobre
+12000000;Superior Universitario;No pobre
 6000000;Superior Universitario;No pobre
 18000000;Maestría (Post universitario);No pobre
 15000000;Superior Universitario;No pobre
@@ -430,7 +430,7 @@ Militar/Policial (Post no universitario)000000;Superior Universitario;No pobre
 3000000;Superior Universitario;No pobre
 20000000;Superior Universitario;No pobre
 3000000;Superior Universitario;No pobre
-2439No Técnico Superior (Post no universitario)9;No obtuvo;No pobre
+2439139;No obtuvo;No pobre
 0;No obtuvo;Pobre extremo
 3000000;No obtuvo;No pobre
 4500000;Militar/Policial;No pobre
@@ -471,7 +471,7 @@ Militar/Policial (Post no universitario)000000;Superior Universitario;No pobre
 4500000;No obtuvo;No pobre
 2000000;No obtuvo;No pobre
 18000000;Doctorado (Post universitario);No pobre
-5Militar/Policial (Post no universitario)0000;Superior Universitario;No pobre
+5120000;Superior Universitario;No pobre
 9000000;Superior Universitario;No pobre
 6800000;Militar/Policial;No pobre
 2550000;No obtuvo;No pobre
@@ -534,7 +534,7 @@ Militar/Policial (Post no universitario)000000;Superior Universitario;No pobre
 5000000;Superior Universitario;No pobre
 3000000;Técnica Superior;No pobre
 3300000;Educación Media;No pobre
-No Técnico Superior (Post no universitario)000000;No obtuvo;No pobre
+13000000;No obtuvo;No pobre
 9000000;No obtuvo;No pobre
 0;No obtuvo;No pobre
 3600000;No obtuvo;No pobre
@@ -557,7 +557,7 @@ No Técnico Superior (Post no universitario)000000;No obtuvo;No pobre
 2100000;Superior Universitario;Pobre no extremo
 3500000;Superior Universitario;No pobre
 1500000;Superior Universitario;No pobre
-No Técnico Superior (Post no universitario)00000;No obtuvo;No pobre
+1300000;No obtuvo;No pobre
 0;Superior Universitario;No pobre
 0;Superior Universitario;No pobre
 3500000;No obtuvo;No pobre
@@ -571,7 +571,7 @@ No Técnico Superior (Post no universitario)00000;No obtuvo;No pobre
 0;No obtuvo;No pobre
 2650000;No obtuvo;No pobre
 3000000;No obtuvo;No pobre
-No Técnico Superior (Post no universitario)00000;No obtuvo;No pobre
+1300000;No obtuvo;No pobre
 4360000;Superior Universitario;No pobre
 5000000;No obtuvo;No pobre
 7000000;Superior Universitario;No pobre
@@ -592,7 +592,7 @@ No Técnico Superior (Post no universitario)00000;No obtuvo;No pobre
 3020000;Técnica Superior;No pobre
 2970000;No obtuvo;No pobre
 0;No obtuvo;No pobre
-Militar/Policial (Post no universitario)00000;No obtuvo;No pobre
+1200000;No obtuvo;No pobre
 6000000;Superior Universitario;No pobre
 0;No obtuvo;No pobre
 3000000;No obtuvo;No pobre
@@ -641,11 +641,11 @@ Militar/Policial (Post no universitario)00000;No obtuvo;No pobre
 0;Técnica Superior;No pobre
 0;Militar/Policial;No pobre
 6000000;Superior Universitario;No pobre
-Militar/Policial (Post no universitario)000000;Militar/Policial;No pobre
+12000000;Militar/Policial;No pobre
 0;Superior Universitario;No pobre
 4000000;No obtuvo;No pobre
 3600000;No obtuvo;No pobre
-No Técnico Superior (Post no universitario)800000;Especialización (Post universitario);No pobre
+13800000;Especialización (Post universitario);No pobre
 4600000;Especialización (Post universitario);No pobre
 0;Militar/Policial;No pobre
 7000000;Doctorado (Post universitario);No pobre
@@ -675,7 +675,7 @@ No Técnico Superior (Post no universitario)800000;Especialización (Post univer
 7000000;No obtuvo;No pobre
 0;No obtuvo;No pobre
 20000000;Maestría (Post universitario);No pobre
-No Técnico Superior (Post no universitario)000000;Maestría (Post universitario);No pobre
+13000000;Maestría (Post universitario);No pobre
 4000000;Especialización (Post universitario);No pobre
 3180000;No obtuvo;No pobre
 10000000;Especialización (Post universitario);No pobre
@@ -711,7 +711,7 @@ No Técnico Superior (Post no universitario)000000;Maestría (Post universitario
 0;No obtuvo;No pobre
 5000000;Superior Universitario;No pobre
 0;Superior Universitario;No pobre
-Militar/Policial (Post no universitario)000000;Especialización (Post universitario);No pobre
+12000000;Especialización (Post universitario);No pobre
 0;Superior Universitario;No pobre
 3500000;Especialización (Post universitario);No pobre
 5000000;Superior Universitario;No pobre
@@ -720,7 +720,7 @@ Militar/Policial (Post no universitario)000000;Especialización (Post universita
 6000000;Superior Universitario;No pobre
 4000000;Maestría (Post universitario);No pobre
 15000000;Maestría (Post universitario);No pobre
-No obtuvo000000;Maestría (Post universitario);No pobre
+14000000;Maestría (Post universitario);No pobre
 4000000;No obtuvo;No pobre
 0;No obtuvo;Pobre no extremo
 6500000;No obtuvo;No pobre
@@ -734,7 +734,7 @@ No obtuvo000000;Maestría (Post universitario);No pobre
 1000000;Técnica Superior;No pobre
 2460000;No obtuvo;No pobre
 0;No obtuvo;No pobre
-No obtuvo000000;Superior Universitario;No pobre
+14000000;Superior Universitario;No pobre
 0;Superior Universitario;No pobre
 35000000;No obtuvo;No pobre
 6500000;Superior Universitario;No pobre
@@ -750,7 +750,7 @@ No obtuvo000000;Superior Universitario;No pobre
 6000000;Superior Universitario;No pobre
 0;Superior Universitario;No pobre
 31000000;Superior Universitario;No pobre
-Militar/Policial (Post no universitario)000000;Superior Universitario;No pobre
+12000000;Superior Universitario;No pobre
 3000000;Superior Universitario;No pobre
 2800000;Superior Universitario;No pobre
 0;Superior Universitario;No pobre
@@ -940,7 +940,7 @@ Militar/Policial (Post no universitario)000000;Superior Universitario;No pobre
 0;No obtuvo;No pobre
 6000000;Superior Universitario;No pobre
 11800000;Superior Universitario;No pobre
-Militar/Policial (Post no universitario)000000;Maestría (Post universitario);No pobre
+12000000;Maestría (Post universitario);No pobre
 5400000;Superior Universitario;No pobre
 0;No obtuvo;No pobre
 0;Superior Universitario;Pobre no extremo
@@ -950,7 +950,7 @@ Militar/Policial (Post no universitario)000000;Maestría (Post universitario);No
 0;No obtuvo;No pobre
 3000000;No obtuvo;No pobre
 2100000;No obtuvo;No pobre
-No obtuvo00000;Superior Universitario;No pobre
+1400000;Superior Universitario;No pobre
 3500000;Maestría (Post universitario);No pobre
 2500000;No obtuvo;No pobre
 2500000;No obtuvo;No pobre
@@ -983,7 +983,7 @@ No obtuvo00000;Superior Universitario;No pobre
 4000000;Técnica Superior;No pobre
 16000000;Superior Universitario;No pobre
 0;Superior Universitario;Pobre no extremo
-Militar/Policial (Post no universitario)00000;Superior Universitario;Pobre no extremo
+1200000;Superior Universitario;Pobre no extremo
 0;No obtuvo;Pobre no extremo
 850000;No obtuvo;No pobre
 25000000;Educación Media;No pobre
@@ -1063,7 +1063,7 @@ Militar/Policial (Post no universitario)00000;Superior Universitario;Pobre no ex
 0;No obtuvo;No pobre
 0;No obtuvo;No pobre
 0;Superior Universitario;No pobre
-No Técnico Superior (Post no universitario)000000;Superior Universitario;No pobre
+13000000;Superior Universitario;No pobre
 15000000;Superior Universitario;No pobre
 8000000;Superior Universitario;No pobre
 0;Doctorado (Post universitario);No pobre
@@ -1072,7 +1072,7 @@ No Técnico Superior (Post no universitario)000000;Superior Universitario;No pob
 2200000;No obtuvo;No pobre
 3000000;Superior Universitario;No pobre
 2500000;Superior Universitario;No pobre
-Militar/Policial (Post no universitario)000000;Maestría (Post universitario);No pobre
+12000000;Maestría (Post universitario);No pobre
 0;Maestría (Post universitario);No pobre
 3000000;No obtuvo;No pobre
 3200000;No obtuvo;No pobre
@@ -1094,7 +1094,7 @@ Militar/Policial (Post no universitario)000000;Maestría (Post universitario);No
 3600000;Superior Universitario;No pobre
 0;No obtuvo;No pobre
 3100000;No obtuvo;No pobre
-No Técnico Superior (Post no universitario)No obtuvo000;No obtuvo;No pobre
+1314000;No obtuvo;No pobre
 3500000;Superior Universitario;No pobre
 5000000;Técnica Superior;No pobre
 1500000;Superior Universitario;No pobre
@@ -1104,7 +1104,7 @@ No Técnico Superior (Post no universitario)No obtuvo000;No obtuvo;No pobre
 0;Técnica Superior;No pobre
 7000000;Especialización (Post universitario);No pobre
 5000000;Maestría (Post universitario);No pobre
-Militar/Policial (Post no universitario)00000;No obtuvo;No pobre
+1200000;No obtuvo;No pobre
 2500000;No obtuvo;No pobre
 2000000;No obtuvo;No pobre
 0;Superior Universitario;Pobre no extremo
@@ -1121,7 +1121,7 @@ Militar/Policial (Post no universitario)00000;No obtuvo;No pobre
 4000000;No obtuvo;No pobre
 1000000;No obtuvo;No pobre
 0;No obtuvo;No pobre
-Militar/Policial (Post no universitario)000000;Superior Universitario;No pobre
+12000000;Superior Universitario;No pobre
 0;No obtuvo;No pobre
 10000000;Superior Universitario;No pobre
 0;No obtuvo;No pobre
@@ -1173,7 +1173,7 @@ Militar/Policial (Post no universitario)000000;Superior Universitario;No pobre
 4000000;No obtuvo;No pobre
 5000000;No obtuvo;No pobre
 23000000;No obtuvo;No pobre
-Militar/Policial (Post no universitario)000000;Superior Universitario;No pobre
+12000000;Superior Universitario;No pobre
 8000000;Superior Universitario;No pobre
 10000000;Superior Universitario;No pobre
 2300000;Superior Universitario;No pobre
@@ -1194,7 +1194,7 @@ Militar/Policial (Post no universitario)000000;Superior Universitario;No pobre
 6000000;No obtuvo;No pobre
 0;Superior Universitario;No pobre
 6000000;No obtuvo;No pobre
-No Técnico Superior (Post no universitario)000000;Superior Universitario;No pobre
+13000000;Superior Universitario;No pobre
 3200000;Técnica Superior;No pobre
 2300000;Educación Inicial;No pobre
 3000000;Técnica Superior;No pobre
@@ -1272,7 +1272,7 @@ No Técnico Superior (Post no universitario)000000;Superior Universitario;No pob
 6600000;Superior Universitario;No pobre
 0;Superior Universitario;No pobre
 3000000;Superior Universitario;No pobre
-Militar/Policial (Post no universitario)00000;No obtuvo;No pobre
+1200000;No obtuvo;No pobre
 1500000;No obtuvo;No pobre
 2800000;No obtuvo;No pobre
 0;Superior Universitario;No pobre
@@ -1281,18 +1281,18 @@ Militar/Policial (Post no universitario)00000;No obtuvo;No pobre
 4000000;Especialización (Post universitario);No pobre
 6000000;Superior Universitario;No pobre
 3700000;Maestría (Post universitario);No pobre
-Militar/Policial (Post no universitario)000000;Doctorado (Post universitario);No pobre
+12000000;Doctorado (Post universitario);No pobre
 4000000;No obtuvo;No pobre
 2000000;Superior Universitario;No pobre
 800000;No obtuvo;No pobre
 0;Superior Universitario;Pobre no extremo
-No Técnico Superior (Post no universitario)00000;Superior Universitario;No pobre
+1300000;Superior Universitario;No pobre
 2600000;Superior Universitario;No pobre
 4800000;Educación Media;No pobre
 2500000;No obtuvo;No pobre
 2500000;No obtuvo;No pobre
 2500000;No obtuvo;No pobre
-Militar/Policial (Post no universitario)00000;Superior Universitario;No pobre
+1200000;Superior Universitario;No pobre
 0;Superior Universitario;No pobre
 0;No obtuvo;No pobre
 2300000;Superior Universitario;No pobre
@@ -1306,7 +1306,7 @@ Militar/Policial (Post no universitario)00000;Superior Universitario;No pobre
 2500000;No obtuvo;No pobre
 0;Superior Universitario;No pobre
 2500000;Superior Universitario;No pobre
-Militar/Policial (Post no universitario)00000;Superior Universitario;No pobre
+1200000;Superior Universitario;No pobre
 2000000;Superior Universitario;No pobre
 6000000;EEB (3er ciclo);No pobre
 1800000;Superior Universitario;No pobre
@@ -1325,7 +1325,7 @@ Militar/Policial (Post no universitario)00000;Superior Universitario;No pobre
 3000000;No obtuvo;No pobre
 2500000;No obtuvo;No pobre
 1800000;Superior Universitario;No pobre
-No obtuvo00000;No obtuvo;No pobre
+1400000;No obtuvo;No pobre
 2200000;No obtuvo;No pobre
 800000;Especialización (Post universitario);Pobre no extremo
 2832000;No obtuvo;No pobre
@@ -1358,7 +1358,7 @@ No obtuvo00000;No obtuvo;No pobre
 4800000;EEB (1º y 2º ciclo);No pobre
 3700000;Militar/Policial;No pobre
 0;No obtuvo;No pobre
-No obtuvo00000;No obtuvo;No pobre
+1400000;No obtuvo;No pobre
 2200000;No obtuvo;No pobre
 700000;No obtuvo;Pobre no extremo
 500000;No obtuvo;Pobre no extremo
@@ -1378,7 +1378,7 @@ No obtuvo00000;No obtuvo;No pobre
 5600000;Superior Universitario;No pobre
 3200000;EEB (1º y 2º ciclo);No pobre
 4200000;Superior Universitario;No pobre
-No obtuvo00000;No obtuvo;No pobre
+1400000;No obtuvo;No pobre
 1100000;No obtuvo;No pobre
 0;Superior Universitario;No pobre
 0;No obtuvo;No pobre
@@ -1464,7 +1464,7 @@ No obtuvo00000;No obtuvo;No pobre
 2000000;No obtuvo;No pobre
 10000000;Superior Universitario;No pobre
 2000000;No obtuvo;No pobre
-No Técnico Superior (Post no universitario)20000;No obtuvo;No pobre
+1320000;No obtuvo;No pobre
 500000;No obtuvo;No pobre
 0;Superior Universitario;No pobre
 2500000;No obtuvo;No pobre
@@ -1476,7 +1476,7 @@ No Técnico Superior (Post no universitario)20000;No obtuvo;No pobre
 2760000;Superior Universitario;No pobre
 2880000;Superior Universitario;No pobre
 3300000;Superior Universitario;No pobre
-Militar/Policial (Post no universitario)00000;Superior Universitario;No pobre
+1200000;Superior Universitario;No pobre
 1700000;No obtuvo;No pobre
 4000000;Superior Universitario;No pobre
 0;Superior Universitario;No pobre
@@ -1485,7 +1485,7 @@ Militar/Policial (Post no universitario)00000;Superior Universitario;No pobre
 760000;No obtuvo;No pobre
 3000000;Técnica Superior;No pobre
 3000000;Técnica Superior;No pobre
-Militar/Policial (Post no universitario)00000;Superior Universitario;No pobre
+1200000;Superior Universitario;No pobre
 0;No obtuvo;No pobre
 7000000;Superior Universitario;No pobre
 900000;No obtuvo;No pobre
@@ -1568,10 +1568,10 @@ Militar/Policial (Post no universitario)00000;Superior Universitario;No pobre
 0;EEB (1º y 2º ciclo);No pobre
 0;No obtuvo;No pobre
 400000;No obtuvo;Pobre no extremo
-No obtuvo00000;No obtuvo;Pobre no extremo
+1400000;No obtuvo;Pobre no extremo
 4050000;Superior Universitario;No pobre
 600000;No obtuvo;No pobre
-Militar/Policial (Post no universitario)00000;No obtuvo;No pobre
+1200000;No obtuvo;No pobre
 10000000;Superior Universitario;No pobre
 0;Técnica Superior;No pobre
 3650000;Superior Universitario;No pobre
@@ -1625,10 +1625,10 @@ Militar/Policial (Post no universitario)00000;No obtuvo;No pobre
 5241600;No obtuvo;No pobre
 2500000;No obtuvo;No pobre
 3200000;Superior Universitario;No pobre
-No obtuvo00000;Especialización (Post universitario);No pobre
+1400000;Especialización (Post universitario);No pobre
 2500000;Superior Universitario;No pobre
 0;No obtuvo;No pobre
-Militar/Policial (Post no universitario)00000;Superior Universitario;No pobre
+1200000;Superior Universitario;No pobre
 2500000;No obtuvo;No pobre
 0;EEB (1º y 2º ciclo);No pobre
 1000000;Superior Universitario;No pobre
@@ -1674,12 +1674,12 @@ Militar/Policial (Post no universitario)00000;Superior Universitario;No pobre
 2500000;Superior Universitario;No pobre
 5000000;Especialización (Post universitario);No pobre
 15000000;Superior Universitario;No pobre
-Militar/Policial (Post no universitario)000000;No obtuvo;No pobre
+12000000;No obtuvo;No pobre
 3200000;Superior Universitario;No pobre
 1000000;Técnica Superior;No pobre
 800000;EEB (1º y 2º ciclo);No pobre
 500000;EEB (1º y 2º ciclo);No pobre
-Militar/Policial (Post no universitario)00000;No obtuvo;No pobre
+1200000;No obtuvo;No pobre
 0;No obtuvo;Pobre no extremo
 0;No obtuvo;Pobre no extremo
 800000;No obtuvo;Pobre no extremo
@@ -1771,11 +1771,11 @@ Militar/Policial (Post no universitario)00000;No obtuvo;No pobre
 0;No obtuvo;Pobre extremo
 0;No obtuvo;Pobre extremo
 700000;Formación Docente (Post no universitario);Pobre no extremo
-No Técnico Superior (Post no universitario)00000;Superior Universitario;No pobre
+1300000;Superior Universitario;No pobre
 1500000;No obtuvo;No pobre
 0;Superior Universitario;Pobre no extremo
-Militar/Policial (Post no universitario)00000;Superior Universitario;Pobre no extremo
-No obtuvo00000;Superior Universitario;No pobre
+1200000;Superior Universitario;Pobre no extremo
+1400000;Superior Universitario;No pobre
 0;No obtuvo;No pobre
 2850000;Superior Universitario;No pobre
 0;Superior Universitario;Pobre no extremo
@@ -1829,7 +1829,7 @@ No obtuvo00000;Superior Universitario;No pobre
 0;No obtuvo;No pobre
 3500000;Superior Universitario;No pobre
 0;No obtuvo;Pobre no extremo
-Militar/Policial (Post no universitario)00000;No obtuvo;No pobre
+1200000;No obtuvo;No pobre
 0;No obtuvo;Pobre no extremo
 3300000;Superior Universitario;No pobre
 4700000;EEB (3er ciclo);No pobre
@@ -1896,7 +1896,7 @@ Militar/Policial (Post no universitario)00000;No obtuvo;No pobre
 4950000;EEB (1º y 2º ciclo);No pobre
 4950000;Superior Universitario;No pobre
 0;No obtuvo;No pobre
-3Militar/Policial (Post no universitario)0000;Superior Universitario;No pobre
+3120000;Superior Universitario;No pobre
 0;Superior Universitario;No pobre
 4000000;Superior Universitario;No pobre
 2500000;No obtuvo;No pobre
@@ -1905,7 +1905,7 @@ Militar/Policial (Post no universitario)00000;No obtuvo;No pobre
 20000000;No obtuvo;No pobre
 0;Superior Universitario;Pobre no extremo
 5800000;Militar/Policial;No pobre
-Militar/Policial (Post no universitario)000000;Superior Universitario;No pobre
+12000000;Superior Universitario;No pobre
 0;Superior Universitario;No pobre
 0;No obtuvo;No pobre
 2860000;No obtuvo;No pobre
@@ -2013,14 +2013,14 @@ Militar/Policial (Post no universitario)000000;Superior Universitario;No pobre
 3500000;No obtuvo;No pobre
 2500000;No obtuvo;No pobre
 2800000;Superior Universitario;No pobre
-No Técnico Superior (Post no universitario)00000;No obtuvo;No pobre
+1300000;No obtuvo;No pobre
 5000000;Superior Universitario;No pobre
 15000000;Especialización (Post universitario);No pobre
 2340000;No obtuvo;No pobre
 0;No obtuvo;Pobre no extremo
 2730000;No obtuvo;Pobre no extremo
 600000;No obtuvo;Pobre no extremo
-No obtuvo00000;No obtuvo;No pobre
+1400000;No obtuvo;No pobre
 1000000;No obtuvo;No pobre
 2000000;Técnica Superior;No pobre
 3800000;Superior Universitario;No pobre
@@ -2032,7 +2032,7 @@ No obtuvo00000;No obtuvo;No pobre
 0;No obtuvo;No pobre
 1800000;No obtuvo;No pobre
 2400000;Superior Universitario;No pobre
-No obtuvo000000;Doctorado (Post universitario);No pobre
+14000000;Doctorado (Post universitario);No pobre
 7000000;Maestría (Post universitario);No pobre
 4600000;Militar/Policial;No pobre
 16500000;Superior Universitario;No pobre
@@ -2097,9 +2097,9 @@ No obtuvo000000;Doctorado (Post universitario);No pobre
 4000000;Técnica Superior;No pobre
 2000000;Técnica Superior;No pobre
 4000000;No obtuvo;No pobre
-Militar/Policial (Post no universitario)30000;No obtuvo;No pobre
+1230000;No obtuvo;No pobre
 4500000;Superior Universitario;No pobre
-Militar/Policial (Post no universitario)00000;No obtuvo;No pobre
+1200000;No obtuvo;No pobre
 2500000;No obtuvo;No pobre
 400000;No obtuvo;Pobre no extremo
 6500000;Superior Universitario;No pobre
@@ -2108,12 +2108,12 @@ Militar/Policial (Post no universitario)00000;No obtuvo;No pobre
 3900000;No obtuvo;No pobre
 0;Técnica Superior;No pobre
 3100000;Educación Inicial;No pobre
-Militar/Policial (Post no universitario)00000;No obtuvo;No pobre
+1200000;No obtuvo;No pobre
 3000000;EEB (1º y 2º ciclo);No pobre
 2200000;EEB (1º y 2º ciclo);No pobre
 400000;Superior Universitario;No pobre
 2000000;Superior Universitario;No pobre
-Militar/Policial (Post no universitario)00000;Técnica Superior;No pobre
+1200000;Técnica Superior;No pobre
 0;Superior Universitario;Pobre no extremo
 0;No obtuvo;Pobre no extremo
 0;Técnica Superior;No pobre
@@ -2195,7 +2195,7 @@ Militar/Policial (Post no universitario)00000;Técnica Superior;No pobre
 880000;Técnica Superior;No pobre
 0;No obtuvo;No pobre
 4000000;Técnica Superior;No pobre
-Militar/Policial (Post no universitario)00000;No obtuvo;No pobre
+1200000;No obtuvo;No pobre
 1000000;No obtuvo;No pobre
 0;No obtuvo;No pobre
 0;No obtuvo;Pobre no extremo
@@ -2280,7 +2280,7 @@ Militar/Policial (Post no universitario)00000;No obtuvo;No pobre
 2550000;No obtuvo;No pobre
 1500000;Especialización (Post universitario);No pobre
 1600000;No obtuvo;No pobre
-Militar/Policial (Post no universitario)00000;No obtuvo;No pobre
+1200000;No obtuvo;No pobre
 0;Educación Media;No pobre
 2500000;No obtuvo;No pobre
 5600000;Superior Universitario;No pobre
@@ -2319,7 +2319,7 @@ Militar/Policial (Post no universitario)00000;No obtuvo;No pobre
 3000000;Superior Universitario;No pobre
 0;Educación Media;No pobre
 3780000;Superior Universitario;No pobre
-Militar/Policial (Post no universitario)00000;Superior Universitario;No pobre
+1200000;Superior Universitario;No pobre
 0;Técnica Superior;No pobre
 5000000;No obtuvo;No pobre
 2000000;No obtuvo;No pobre
@@ -2366,7 +2366,7 @@ Militar/Policial (Post no universitario)00000;Superior Universitario;No pobre
 0;No obtuvo;No pobre
 0;No obtuvo;No pobre
 0;Superior Universitario;No pobre
-No Técnico Superior (Post no universitario)00000;No obtuvo;Pobre no extremo
+1300000;No obtuvo;Pobre no extremo
 6800000;Militar/Policial;No pobre
 0;Superior Universitario;No pobre
 3500000;Militar/Policial;No pobre
@@ -2379,7 +2379,7 @@ No Técnico Superior (Post no universitario)00000;No obtuvo;Pobre no extremo
 0;Superior Universitario;Pobre extremo
 0;Técnica Superior;No pobre
 5000000;Militar/Policial;No pobre
-Militar/Policial (Post no universitario)00000;No obtuvo;Pobre no extremo
+1200000;No obtuvo;Pobre no extremo
 3000000;EEB (3er ciclo);No pobre
 5000000;EEB (3er ciclo);No pobre
 2500000;No obtuvo;No pobre
@@ -2404,7 +2404,7 @@ Militar/Policial (Post no universitario)00000;No obtuvo;Pobre no extremo
 2500000;No obtuvo;No pobre
 4000000;Superior Universitario;No pobre
 2500000;No obtuvo;No pobre
-3No Técnico Superior (Post no universitario)8No obtuvo9;EEB (3er ciclo);No pobre
+3138149;EEB (3er ciclo);No pobre
 800000;No obtuvo;No pobre
 2400000;No obtuvo;No pobre
 0;No obtuvo;No pobre
@@ -2450,17 +2450,17 @@ Militar/Policial (Post no universitario)00000;No obtuvo;Pobre no extremo
 3500000;Especialización (Post universitario);No pobre
 0;No obtuvo;Pobre no extremo
 2400000;No obtuvo;Pobre no extremo
-No obtuvo00000;No obtuvo;No pobre
+1400000;No obtuvo;No pobre
 3800000;Militar/Policial;No pobre
 1190000;No obtuvo;No pobre
 4500000;Superior Universitario;No pobre
-Militar/Policial (Post no universitario)00000;Técnica Superior;No pobre
+1200000;Técnica Superior;No pobre
 2526000;Técnica Superior;No pobre
 3000000;No obtuvo;No pobre
 300000;No obtuvo;No pobre
 2900000;Superior Universitario;No pobre
 2020000;Superior Universitario;No pobre
-Militar/Policial (Post no universitario)00000;No obtuvo;No pobre
+1200000;No obtuvo;No pobre
 2320000;No obtuvo;No pobre
 1000000;No obtuvo;Pobre no extremo
 2300000;Maestría (Post universitario);Pobre no extremo
@@ -2515,7 +2515,7 @@ Militar/Policial (Post no universitario)00000;No obtuvo;No pobre
 960000;No obtuvo;No pobre
 0;No obtuvo;No pobre
 200000;No obtuvo;Pobre no extremo
-Militar/Policial (Post no universitario)00000;Superior Universitario;Pobre no extremo
+1200000;Superior Universitario;Pobre no extremo
 1800000;Superior Universitario;No pobre
 1920000;Técnica Superior;No pobre
 4200000;Técnica Superior;No pobre
@@ -2565,7 +2565,7 @@ Militar/Policial (Post no universitario)00000;Superior Universitario;Pobre no ex
 0;No obtuvo;No pobre
 2500000;Superior Universitario;No pobre
 800000;Técnica Superior;No pobre
-Militar/Policial (Post no universitario)00000;No obtuvo;No pobre
+1200000;No obtuvo;No pobre
 2000000;No obtuvo;No pobre
 4610000;No obtuvo;No pobre
 4300000;Superior Universitario;No pobre
@@ -2575,7 +2575,7 @@ Militar/Policial (Post no universitario)00000;No obtuvo;No pobre
 2000000;Superior Universitario;No pobre
 0;No obtuvo;No pobre
 0;No obtuvo;No pobre
-No obtuvo00000;No obtuvo;No pobre
+1400000;No obtuvo;No pobre
 0;No obtuvo;No pobre
 11000000;Superior Universitario;No pobre
 7000000;Superior Universitario;No pobre
@@ -2596,10 +2596,10 @@ No obtuvo00000;No obtuvo;No pobre
 0;No obtuvo;No pobre
 0;No obtuvo;No pobre
 0;EEB (1º y 2º ciclo);No pobre
-No Técnico Superior (Post no universitario)00000;No obtuvo;No pobre
-No Técnico Superior (Post no universitario)90000;Superior Universitario;No pobre
+1300000;No obtuvo;No pobre
+1390000;Superior Universitario;No pobre
 1800000;Superior Universitario;No pobre
-No Técnico Superior (Post no universitario)00000;Especialización (Post universitario);No pobre
+1300000;Especialización (Post universitario);No pobre
 0;Técnica Superior;No pobre
 0;No obtuvo;No pobre
 2800000;EEB (1º y 2º ciclo);No pobre
@@ -2641,7 +2641,7 @@ No Técnico Superior (Post no universitario)00000;Especialización (Post univers
 3000000;Superior Universitario;No pobre
 1800000;No obtuvo;No pobre
 2550000;Superior Universitario;No pobre
-Militar/Policial (Post no universitario)00000;Técnica Superior;No pobre
+1200000;Técnica Superior;No pobre
 3500000;No obtuvo;No pobre
 0;No obtuvo;No pobre
 3290000;No obtuvo;No pobre
@@ -2676,7 +2676,7 @@ Militar/Policial (Post no universitario)00000;Técnica Superior;No pobre
 0;No obtuvo;No pobre
 0;No obtuvo;No pobre
 1500000;No obtuvo;No pobre
-Militar/Policial (Post no universitario)00000;No obtuvo;No pobre
+1200000;No obtuvo;No pobre
 950000;Superior Universitario;No pobre
 7600000;Superior Universitario;No pobre
 0;Superior Universitario;Pobre no extremo
@@ -2684,7 +2684,7 @@ Militar/Policial (Post no universitario)00000;No obtuvo;No pobre
 0;Superior Universitario;Pobre no extremo
 1700000;No obtuvo;Pobre no extremo
 0;Superior Universitario;No pobre
-Militar/Policial (Post no universitario)88000;No obtuvo;No pobre
+1288000;No obtuvo;No pobre
 0;No obtuvo;No pobre
 3200000;No obtuvo;No pobre
 3949000;Superior Universitario;No pobre
@@ -2704,7 +2704,7 @@ Militar/Policial (Post no universitario)88000;No obtuvo;No pobre
 3600000;Superior Universitario;No pobre
 0;EEB (1º y 2º ciclo);No pobre
 5000000;EEB (3er ciclo);No pobre
-6No obtuvo0000;Superior Universitario;No pobre
+6140000;Superior Universitario;No pobre
 2200000;No obtuvo;No pobre
 5700000;Superior Universitario;No pobre
 8000000;Especialización (Post universitario);No pobre
@@ -2741,8 +2741,8 @@ Militar/Policial (Post no universitario)88000;No obtuvo;No pobre
 2500000;Superior Universitario;No pobre
 4000000;No obtuvo;No pobre
 1800000;No obtuvo;No pobre
-No Técnico Superior (Post no universitario)00000;Superior Universitario;Pobre no extremo
-No Técnico Superior (Post no universitario)00000;No obtuvo;No pobre
+1300000;Superior Universitario;Pobre no extremo
+1300000;No obtuvo;No pobre
 1500000;No obtuvo;No pobre
 800000;EEB (1º y 2º ciclo);No pobre
 1000000;Superior Universitario;No pobre
@@ -2762,7 +2762,7 @@ No Técnico Superior (Post no universitario)00000;No obtuvo;No pobre
 2400000;Superior Universitario;Pobre no extremo
 0;Superior Universitario;Pobre no extremo
 0;EEB (1º y 2º ciclo);Pobre no extremo
-No Técnico Superior (Post no universitario)00000;Superior Universitario;Pobre no extremo
+1300000;Superior Universitario;Pobre no extremo
 0;Superior Universitario;No pobre
 2900000;Superior Universitario;No pobre
 2300000;No obtuvo;No pobre
@@ -2798,7 +2798,7 @@ No Técnico Superior (Post no universitario)00000;Superior Universitario;Pobre n
 0;Superior Universitario;No pobre
 5000000;Superior Universitario;No pobre
 0;No obtuvo;Pobre no extremo
-Militar/Policial (Post no universitario)00000;Superior Universitario;No pobre
+1200000;Superior Universitario;No pobre
 0;EEB (1º y 2º ciclo);No pobre
 0;Técnica Superior;No pobre
 0;No obtuvo;No pobre
@@ -2862,7 +2862,7 @@ Militar/Policial (Post no universitario)00000;Superior Universitario;No pobre
 4000000;Superior Universitario;No pobre
 0;Superior Universitario;No pobre
 5000000;EEB (3er ciclo);No pobre
-Militar/Policial (Post no universitario)00000;Superior Universitario;Pobre no extremo
+1200000;Superior Universitario;Pobre no extremo
 0;No obtuvo;Pobre no extremo
 2000000;No obtuvo;No pobre
 2840000;Técnica Superior;No pobre
@@ -2876,7 +2876,7 @@ Militar/Policial (Post no universitario)00000;Superior Universitario;Pobre no ex
 0;No obtuvo;Pobre no extremo
 0;No obtuvo;No pobre
 2000000;Técnica Superior;No pobre
-Militar/Policial (Post no universitario)00000;Superior Universitario;No pobre
+1200000;Superior Universitario;No pobre
 3200000;No obtuvo;No pobre
 8000000;Maestría (Post universitario);No pobre
 2000000;Superior Universitario;No pobre
@@ -2910,7 +2910,7 @@ Militar/Policial (Post no universitario)00000;Superior Universitario;No pobre
 5000000;Superior Universitario;No pobre
 4000000;Superior Universitario;No pobre
 2000000;Superior Universitario;No pobre
-No obtuvo081000;Superior Universitario;No pobre
+14081000;Superior Universitario;No pobre
 8500000;Superior Universitario;No pobre
 4300000;Superior Universitario;No pobre
 7000000;Superior Universitario;No pobre
@@ -2931,7 +2931,7 @@ No obtuvo081000;Superior Universitario;No pobre
 5000000;Superior Universitario;No pobre
 3500000;Superior Universitario;No pobre
 3300000;Superior Universitario;No pobre
-Militar/Policial (Post no universitario)00000;Superior Universitario;No pobre
+1200000;Superior Universitario;No pobre
 0;No obtuvo;No pobre
 3000000;Especialización (Post universitario);No pobre
 7000000;Superior Universitario;No pobre
@@ -3020,13 +3020,13 @@ Militar/Policial (Post no universitario)00000;Superior Universitario;No pobre
 1600000;Educación Inicial;No pobre
 2500000;Superior Universitario;No pobre
 2500000;No obtuvo;No pobre
-No Técnico Superior (Post no universitario)20000;Superior Universitario;No pobre
+1320000;Superior Universitario;No pobre
 5160000;EEB (1º y 2º ciclo);No pobre
 5000000;EEB (1º y 2º ciclo);No pobre
 3500000;Superior Universitario;No pobre
 0;Superior Universitario;No pobre
 0;No obtuvo;No pobre
-No obtuvo00000;Superior Universitario;No pobre
+1400000;Superior Universitario;No pobre
 0;No obtuvo;No pobre
 600000;Superior Universitario;No pobre
 0;Superior Universitario;No pobre
@@ -3067,7 +3067,7 @@ No obtuvo00000;Superior Universitario;No pobre
 4900000;No obtuvo;No pobre
 0;No obtuvo;No pobre
 3800000;Superior Universitario;No pobre
-Militar/Policial (Post no universitario)00000;Superior Universitario;No pobre
+1200000;Superior Universitario;No pobre
 1800000;No obtuvo;No pobre
 2000000;Superior Universitario;No pobre
 0;No obtuvo;No pobre
@@ -3116,7 +3116,7 @@ Militar/Policial (Post no universitario)00000;Superior Universitario;No pobre
 0;Superior Universitario;No pobre
 1000000;Superior Universitario;Pobre no extremo
 0;No obtuvo;Pobre no extremo
-2Militar/Policial (Post no universitario)5000;No obtuvo;No pobre
+2125000;No obtuvo;No pobre
 1900000;Superior Universitario;No pobre
 1000000;Especialización (Post universitario);No pobre
 0;Superior Universitario;No pobre
@@ -3133,11 +3133,11 @@ Militar/Policial (Post no universitario)00000;Superior Universitario;No pobre
 3000000;EEB (1º y 2º ciclo);No pobre
 2500000;No obtuvo;No pobre
 980000;No obtuvo;Pobre no extremo
-Militar/Policial (Post no universitario)00000;Superior Universitario;No pobre
+1200000;Superior Universitario;No pobre
 0;No obtuvo;No pobre
 0;Superior Universitario;No pobre
 0;EEB (1º y 2º ciclo);No pobre
-Militar/Policial (Post no universitario)00000;No obtuvo;No pobre
+1200000;No obtuvo;No pobre
 0;No obtuvo;No pobre
 0;Superior Universitario;Pobre no extremo
 4000000;Técnica Superior;No pobre
@@ -3152,7 +3152,7 @@ Militar/Policial (Post no universitario)00000;No obtuvo;No pobre
 4200000;Maestría (Post universitario);No pobre
 5600000;Maestría (Post universitario);No pobre
 2500000;No obtuvo;No pobre
-Militar/Policial (Post no universitario)50000;No obtuvo;No pobre
+1250000;No obtuvo;No pobre
 5000000;EEB (1º y 2º ciclo);No pobre
 550000;Educación Inicial;No pobre
 1000000;No obtuvo;No pobre
@@ -3161,7 +3161,7 @@ Militar/Policial (Post no universitario)50000;No obtuvo;No pobre
 1500000;No obtuvo;No pobre
 5600000;Superior Universitario;No pobre
 2000000;Maestría (Post universitario);No pobre
-Militar/Policial (Post no universitario)60000;Superior Universitario;No pobre
+1260000;Superior Universitario;No pobre
 1000000;No obtuvo;No pobre
 1760000;No obtuvo;No pobre
 3700000;No obtuvo;No pobre
@@ -3189,7 +3189,7 @@ Militar/Policial (Post no universitario)60000;Superior Universitario;No pobre
 5000000;EEB (1º y 2º ciclo);No pobre
 0;No obtuvo;No pobre
 3600000;Superior Universitario;No pobre
-3Militar/Policial (Post no universitario)0000;No obtuvo;No pobre
+3120000;No obtuvo;No pobre
 3520000;No obtuvo;No pobre
 0;No obtuvo;No pobre
 2450000;Superior Universitario;No pobre
@@ -3236,7 +3236,7 @@ Militar/Policial (Post no universitario)60000;Superior Universitario;No pobre
 0;Superior Universitario;No pobre
 2660000;EEB (1º y 2º ciclo);No pobre
 0;No obtuvo;No pobre
-Militar/Policial (Post no universitario)00000;No obtuvo;No pobre
+1200000;No obtuvo;No pobre
 0;Superior Universitario;No pobre
 4600000;Militar/Policial;No pobre
 0;Superior Universitario;No pobre
@@ -3249,7 +3249,7 @@ Militar/Policial (Post no universitario)00000;No obtuvo;No pobre
 0;No obtuvo;No pobre
 0;EEB (1º y 2º ciclo);No pobre
 5500000;EEB (1º y 2º ciclo);No pobre
-Militar/Policial (Post no universitario)0000;Superior Universitario;No pobre
+120000;Superior Universitario;No pobre
 930000;No obtuvo;No pobre
 930000;No obtuvo;No pobre
 2000000;No obtuvo;No pobre
@@ -3279,7 +3279,7 @@ Militar/Policial (Post no universitario)0000;Superior Universitario;No pobre
 2500000;No obtuvo;No pobre
 0;Superior Universitario;Pobre extremo
 3000000;Superior Universitario;No pobre
-Militar/Policial (Post no universitario)000000;Superior Universitario;No pobre
+12000000;Superior Universitario;No pobre
 0;Superior Universitario;No pobre
 1000000;Superior Universitario;No pobre
 0;No obtuvo;No pobre
@@ -3301,10 +3301,10 @@ Militar/Policial (Post no universitario)000000;Superior Universitario;No pobre
 0;No obtuvo;No pobre
 4950000;Superior Universitario;No pobre
 0;Superior Universitario;Pobre no extremo
-No obtuvo00000;Superior Universitario;Pobre no extremo
+1400000;Superior Universitario;Pobre no extremo
 0;No obtuvo;No pobre
 0;Superior Universitario;No pobre
-10No Técnico Superior (Post no universitario)2000;Superior Universitario;No pobre
+10132000;Superior Universitario;No pobre
 6500000;Superior Universitario;No pobre
 6300000;Superior Universitario;No pobre
 7000000;Superior Universitario;No pobre
@@ -3334,7 +3334,7 @@ No obtuvo00000;Superior Universitario;Pobre no extremo
 6280000;EEB (1º y 2º ciclo);No pobre
 2930000;Superior Universitario;No pobre
 0;No obtuvo;Pobre no extremo
-No Técnico Superior (Post no universitario)00000;Superior Universitario;No pobre
+1300000;Superior Universitario;No pobre
 2000000;Educación Media;No pobre
 0;Superior Universitario;No pobre
 0;EEB (1º y 2º ciclo);No pobre
@@ -3368,9 +3368,9 @@ No Técnico Superior (Post no universitario)00000;Superior Universitario;No pobr
 0;Superior Universitario;No pobre
 2500000;Técnica Superior;No pobre
 0;No obtuvo;No pobre
-No Técnico Superior (Post no universitario)50000;EEB (1º y 2º ciclo);No pobre
+1350000;EEB (1º y 2º ciclo);No pobre
 2300000;Superior Universitario;No pobre
-No obtuvo00000;No obtuvo;No pobre
+1400000;No obtuvo;No pobre
 2000000;No obtuvo;No pobre
 2800000;Especialización (Post universitario);No pobre
 0;Educación Media;No pobre
@@ -3461,7 +3461,7 @@ No obtuvo00000;No obtuvo;No pobre
 2780000;Superior Universitario;No pobre
 3456000;Superior Universitario;No pobre
 0;EEB (1º y 2º ciclo);No pobre
-Militar/Policial (Post no universitario)00000;Especialización (Post universitario);No pobre
+1200000;Especialización (Post universitario);No pobre
 0;Superior Universitario;No pobre
 1500000;Superior Universitario;No pobre
 4000000;Militar/Policial;No pobre
@@ -3499,7 +3499,7 @@ Militar/Policial (Post no universitario)00000;Especialización (Post universitar
 615000;Superior Universitario;No pobre
 2000000;No obtuvo;No pobre
 4200000;EEB (3er ciclo);No pobre
-Militar/Policial (Post no universitario)00000;No obtuvo;No pobre
+1200000;No obtuvo;No pobre
 2500000;Superior Universitario;No pobre
 2800000;Superior Universitario;No pobre
 3000000;Superior Universitario;No pobre
@@ -3551,7 +3551,7 @@ Militar/Policial (Post no universitario)00000;No obtuvo;No pobre
 0;No obtuvo;No pobre
 4000000;Superior Universitario;No pobre
 6000000;Superior Universitario;No pobre
-No obtuvo80000;No obtuvo;No pobre
+1480000;No obtuvo;No pobre
 2500000;Superior Universitario;No pobre
 3500000;Superior Universitario;No pobre
 0;No obtuvo;No pobre
@@ -3574,7 +3574,7 @@ No obtuvo80000;No obtuvo;No pobre
 1500000;Técnica Superior;No pobre
 700000;Técnica Superior;Pobre no extremo
 0;No obtuvo;Pobre no extremo
-Militar/Policial (Post no universitario)00000;Superior Universitario;No pobre
+1200000;Superior Universitario;No pobre
 3160000;Superior Universitario;No pobre
 6900000;EEB (1º y 2º ciclo);No pobre
 0;EEB (1º y 2º ciclo);No pobre
@@ -3647,7 +3647,7 @@ Militar/Policial (Post no universitario)00000;Superior Universitario;No pobre
 4200000;Superior Universitario;No pobre
 0;No obtuvo;Pobre no extremo
 0;No obtuvo;Pobre no extremo
-No obtuvo00000;Educación Media;No pobre
+1400000;Educación Media;No pobre
 2300000;Superior Universitario;No pobre
 1000000;No obtuvo;No pobre
 3343864;No obtuvo;No pobre
@@ -3658,7 +3658,7 @@ No obtuvo00000;Educación Media;No pobre
 0;No obtuvo;No pobre
 0;EEB (1º y 2º ciclo);No pobre
 0;Superior Universitario;No pobre
-No Técnico Superior (Post no universitario)00000;EEB (1º y 2º ciclo);No pobre
+1300000;EEB (1º y 2º ciclo);No pobre
 0;Superior Universitario;No pobre
 5500000;No obtuvo;No pobre
 0;Educación Media;No pobre
@@ -3689,7 +3689,7 @@ No Técnico Superior (Post no universitario)00000;EEB (1º y 2º ciclo);No pobre
 500000;No obtuvo;No pobre
 500000;No obtuvo;No pobre
 650000;Superior Universitario;Pobre no extremo
-Militar/Policial (Post no universitario)00000;No obtuvo;No pobre
+1200000;No obtuvo;No pobre
 1600000;No obtuvo;No pobre
 3000000;Superior Universitario;No pobre
 1800000;Superior Universitario;No pobre
@@ -3708,7 +3708,7 @@ Militar/Policial (Post no universitario)00000;No obtuvo;No pobre
 2200000;Superior Universitario;No pobre
 600000;No obtuvo;No pobre
 2000000;Superior Universitario;No pobre
-Militar/Policial (Post no universitario)00000;No obtuvo;No pobre
+1200000;No obtuvo;No pobre
 1500000;No obtuvo;No pobre
 2000000;Superior Universitario;No pobre
 3300000;Especialización (Post universitario);No pobre
@@ -3716,7 +3716,7 @@ Militar/Policial (Post no universitario)00000;No obtuvo;No pobre
 1500000;No Técnico Superior (Post no universitario);No pobre
 5000000;Superior Universitario;No pobre
 0;Superior Universitario;No pobre
-No Técnico Superior (Post no universitario)00000;No obtuvo;No pobre
+1300000;No obtuvo;No pobre
 8390000;Superior Universitario;No pobre
 1000000;No obtuvo;No pobre
 4000000;Especialización (Post universitario);No pobre
@@ -3730,11 +3730,11 @@ No Técnico Superior (Post no universitario)00000;No obtuvo;No pobre
 3500000;Superior Universitario;No pobre
 8000000;Superior Universitario;No pobre
 4200000;Superior Universitario;No pobre
-Militar/Policial (Post no universitario)80000;Superior Universitario;No pobre
+1280000;Superior Universitario;No pobre
 2040000;Superior Universitario;No pobre
 2500000;Especialización (Post universitario);No pobre
 0;Superior Universitario;No pobre
-5Militar/Policial (Post no universitario)1570;No obtuvo;No pobre
+5121570;No obtuvo;No pobre
 0;Técnica Superior;No pobre
 800000;No obtuvo;No pobre
 10000000;Técnica Superior;No pobre
@@ -3760,7 +3760,7 @@ Militar/Policial (Post no universitario)80000;Superior Universitario;No pobre
 8500000;Especialización (Post universitario);No pobre
 0;No obtuvo;No pobre
 2675700;No obtuvo;No pobre
-23Militar/Policial (Post no universitario)500;No obtuvo;No pobre
+2312500;No obtuvo;No pobre
 2000000;No obtuvo;No pobre
 0;No obtuvo;No pobre
 2860000;Maestría (Post universitario);No pobre
@@ -3836,7 +3836,7 @@ Militar/Policial (Post no universitario)80000;Superior Universitario;No pobre
 480000;Superior Universitario;No pobre
 3300000;Especialización (Post universitario);No pobre
 4600000;No obtuvo;No pobre
-No obtuvo000000;Superior Universitario;No pobre
+14000000;Superior Universitario;No pobre
 10000000;Especialización (Post universitario);No pobre
 7000000;Especialización (Post universitario);No pobre
 0;No obtuvo;No pobre
@@ -3871,7 +3871,7 @@ No obtuvo000000;Superior Universitario;No pobre
 2600000;No obtuvo;No pobre
 3200000;No obtuvo;Pobre no extremo
 5500000;Militar/Policial;No pobre
-Militar/Policial (Post no universitario)0000;No obtuvo;Pobre extremo
+120000;No obtuvo;Pobre extremo
 2416700;Técnica Superior;No pobre
 6500000;Militar/Policial;No pobre
 2500000;Técnica Superior;No pobre
@@ -3889,7 +3889,7 @@ Militar/Policial (Post no universitario)0000;No obtuvo;Pobre extremo
 3000000;No obtuvo;No pobre
 3000000;Superior Universitario;No pobre
 2500000;No obtuvo;No pobre
-No Técnico Superior (Post no universitario)00000;No obtuvo;No pobre
+1300000;No obtuvo;No pobre
 5000000;No obtuvo;No pobre
 10000000;Superior Universitario;No pobre
 20000000;Superior Universitario;No pobre
@@ -3915,10 +3915,10 @@ No Técnico Superior (Post no universitario)00000;No obtuvo;No pobre
 3000000;No obtuvo;No pobre
 0;Superior Universitario;No pobre
 5000000;Superior Universitario;No pobre
-No Técnico Superior (Post no universitario)40000;Superior Universitario;No pobre
+1340000;Superior Universitario;No pobre
 2100000;No obtuvo;No pobre
 2500000;Técnica Superior;No pobre
-No obtuvo50000;No obtuvo;No pobre
+1450000;No obtuvo;No pobre
 1000000;No obtuvo;No pobre
 2200000;Superior Universitario;No pobre
 3300000;Superior Universitario;No pobre
@@ -3937,20 +3937,20 @@ No obtuvo50000;No obtuvo;No pobre
 2000000;No obtuvo;No pobre
 6000000;Superior Universitario;No pobre
 5030000;Militar/Policial;No pobre
-Militar/Policial (Post no universitario)00000;No obtuvo;No pobre
+1200000;No obtuvo;No pobre
 2000000;Superior Universitario;No pobre
 0;No obtuvo;No pobre
 2000000;No obtuvo;No pobre
 2900000;Técnica Superior;No pobre
 0;No obtuvo;Pobre no extremo
-Militar/Policial (Post no universitario)00000;No obtuvo;Pobre no extremo
+1200000;No obtuvo;Pobre no extremo
 3500000;Superior Universitario;No pobre
 2200000;Superior Universitario;No pobre
 400000;No obtuvo;No pobre
 0;No obtuvo;No pobre
 0;No obtuvo;No pobre
 2200000;No obtuvo;No pobre
-Militar/Policial (Post no universitario)00000;No obtuvo;No pobre
+1200000;No obtuvo;No pobre
 1800000;Técnica Superior;No pobre
 0;No obtuvo;No pobre
 6600000;Militar/Policial;No pobre
@@ -4032,7 +4032,7 @@ Militar/Policial (Post no universitario)00000;No obtuvo;No pobre
 5618000;Superior Universitario;No pobre
 1800000;No obtuvo;No pobre
 1500000;Superior Universitario;No pobre
-Militar/Policial (Post no universitario)00000;No obtuvo;No pobre
+1200000;No obtuvo;No pobre
 0;EEB (1º y 2º ciclo);No pobre
 4000000;Técnica Superior;No pobre
 700000;Educación Media;Pobre no extremo
@@ -4047,7 +4047,7 @@ Militar/Policial (Post no universitario)00000;No obtuvo;No pobre
 0;Superior Universitario;No pobre
 2800000;EEB (3er ciclo);No pobre
 600000;No obtuvo;No pobre
-No obtuvo00000;No obtuvo;No pobre
+1400000;No obtuvo;No pobre
 0;Superior Universitario;No pobre
 0;Superior Universitario;Pobre no extremo
 400000;Superior Universitario;No pobre
@@ -4078,7 +4078,7 @@ No obtuvo00000;No obtuvo;No pobre
 0;No obtuvo;No pobre
 2500000;Superior Universitario;No pobre
 0;EEB (1º y 2º ciclo);No pobre
-Militar/Policial (Post no universitario)000000;No obtuvo;No pobre
+12000000;No obtuvo;No pobre
 5000000;Superior Universitario;No pobre
 6500000;Superior Universitario;No pobre
 0;Técnica Superior;No pobre
@@ -4141,13 +4141,13 @@ Militar/Policial (Post no universitario)000000;No obtuvo;No pobre
 2480000;Superior Universitario;No pobre
 1930000;Superior Universitario;No pobre
 2000000;No obtuvo;No pobre
-1No obtuvo19619;Militar/Policial;No pobre
+11419619;Militar/Policial;No pobre
 50000000;No obtuvo;No pobre
 0;EEB (1º y 2º ciclo);Pobre no extremo
 0;No obtuvo;Pobre no extremo
 0;No obtuvo;No pobre
 400000;No obtuvo;Pobre extremo
-Militar/Policial (Post no universitario)00000;No obtuvo;No pobre
+1200000;No obtuvo;No pobre
 3888000;Formación Docente (Post no universitario);No pobre
 3500000;Especialización (Post universitario);No pobre
 5000000;No obtuvo;No pobre
@@ -4164,10 +4164,10 @@ Militar/Policial (Post no universitario)00000;No obtuvo;No pobre
 0;Superior Universitario;No pobre
 0;No obtuvo;No pobre
 6000000;No obtuvo;No pobre
-4578No obtuvo0;EEB (1º y 2º ciclo);No pobre
+4578140;EEB (1º y 2º ciclo);No pobre
 3200000;No obtuvo;No pobre
 500000;Especialización (Post universitario);No pobre
-No Técnico Superior (Post no universitario)00000;No obtuvo;No pobre
+1300000;No obtuvo;No pobre
 6000000;Superior Universitario;No pobre
 2200000;Superior Universitario;No pobre
 3600000;Especialización (Post universitario);No pobre
@@ -4183,7 +4183,7 @@ No Técnico Superior (Post no universitario)00000;No obtuvo;No pobre
 2400000;No obtuvo;No pobre
 4000000;Superior Universitario;No pobre
 0;No obtuvo;No pobre
-No obtuvo00000;No obtuvo;No pobre
+1400000;No obtuvo;No pobre
 5000000;Superior Universitario;No pobre
 1500000;No obtuvo;No pobre
 3570000;Superior Universitario;No pobre
@@ -4242,8 +4242,8 @@ No obtuvo00000;No obtuvo;No pobre
 500000;No obtuvo;No pobre
 5000000;Superior Universitario;No pobre
 2000000;Superior Universitario;No pobre
-No Técnico Superior (Post no universitario)00000;No obtuvo;No pobre
-No obtuvo00000;No obtuvo;No pobre
+1300000;No obtuvo;No pobre
+1400000;No obtuvo;No pobre
 2600000;Superior Universitario;No pobre
 1500000;EEB (3er ciclo);No pobre
 9500000;Superior Universitario;No pobre
@@ -4300,7 +4300,7 @@ No obtuvo00000;No obtuvo;No pobre
 0;No obtuvo;Pobre no extremo
 4000000;No obtuvo;No pobre
 1000000;No obtuvo;No pobre
-No Técnico Superior (Post no universitario)00000;EEB (1º y 2º ciclo);No pobre
+1300000;EEB (1º y 2º ciclo);No pobre
 0;No obtuvo;No pobre
 5000000;Especialización (Post universitario);No pobre
 0;Superior Universitario;No pobre
@@ -4338,12 +4338,12 @@ No Técnico Superior (Post no universitario)00000;EEB (1º y 2º ciclo);No pobre
 7000000;Superior Universitario;No pobre
 0;No obtuvo;No pobre
 0;Superior Universitario;No pobre
-No Técnico Superior (Post no universitario)00000;No obtuvo;Pobre no extremo
+1300000;No obtuvo;Pobre no extremo
 1000000;Superior Universitario;Pobre no extremo
 0;EEB (1º y 2º ciclo);Pobre no extremo
 3200000;EEB (1º y 2º ciclo);No pobre
 700000;No obtuvo;No pobre
-Militar/Policial (Post no universitario)00000;No obtuvo;No pobre
+1200000;No obtuvo;No pobre
 2500000;No obtuvo;No pobre
 3330000;Superior Universitario;No pobre
 1500000;No obtuvo;No pobre
@@ -4381,7 +4381,7 @@ Militar/Policial (Post no universitario)00000;No obtuvo;No pobre
 3200000;No obtuvo;No pobre
 500000;No obtuvo;No pobre
 3500000;Superior Universitario;No pobre
-No obtuvo000000;Superior Universitario;No pobre
+14000000;Superior Universitario;No pobre
 3000000;No obtuvo;No pobre
 4500000;Militar/Policial;No pobre
 4500000;Superior Universitario;No pobre
@@ -4440,7 +4440,7 @@ No obtuvo000000;Superior Universitario;No pobre
 3500000;No obtuvo;No pobre
 20000000;Superior Universitario;No pobre
 4500000;Superior Universitario;No pobre
-Militar/Policial (Post no universitario)000000;Superior Universitario;No pobre
+12000000;Superior Universitario;No pobre
 0;No obtuvo;No pobre
 3100000;No obtuvo;No pobre
 4000000;EEB (1º y 2º ciclo);No pobre
@@ -4473,9 +4473,9 @@ Militar/Policial (Post no universitario)000000;Superior Universitario;No pobre
 3500000;Superior Universitario;No pobre
 6010000;Especialización (Post universitario);No pobre
 1800000;No obtuvo;No pobre
-No obtuvo00000;No obtuvo;No pobre
+1400000;No obtuvo;No pobre
 2800000;Superior Universitario;No pobre
-3Militar/Policial (Post no universitario)0000;Superior Universitario;No pobre
+3120000;Superior Universitario;No pobre
 3000000;No obtuvo;No pobre
 5200000;Superior Universitario;No pobre
 0;No obtuvo;No pobre
@@ -4524,7 +4524,7 @@ No obtuvo00000;No obtuvo;No pobre
 0;Técnica Superior;No pobre
 1000000;No obtuvo;No pobre
 0;Superior Universitario;No pobre
-No Técnico Superior (Post no universitario)00000;No obtuvo;No pobre
+1300000;No obtuvo;No pobre
 2300000;No obtuvo;No pobre
 2662100;No obtuvo;No pobre
 0;EEB (1º y 2º ciclo);No pobre
@@ -4544,7 +4544,7 @@ No Técnico Superior (Post no universitario)00000;No obtuvo;No pobre
 2500000;No obtuvo;No pobre
 18000000;Superior Universitario;No pobre
 2800000;No obtuvo;No pobre
-Militar/Policial (Post no universitario)00000;Educación Media;No pobre
+1200000;Educación Media;No pobre
 1650000;No obtuvo;No pobre
 0;No obtuvo;No pobre
 0;No obtuvo;No pobre
@@ -4606,7 +4606,7 @@ Militar/Policial (Post no universitario)00000;Educación Media;No pobre
 400000;No obtuvo;Pobre no extremo
 0;No obtuvo;No pobre
 3000000;Técnica Superior;No pobre
-No obtuvo80000;No obtuvo;No pobre
+1480000;No obtuvo;No pobre
 4500000;Educación Inicial;No pobre
 2500000;No obtuvo;No pobre
 500000;EEB (3er ciclo);No pobre
@@ -4615,7 +4615,7 @@ No obtuvo80000;No obtuvo;No pobre
 0;No obtuvo;No pobre
 0;Superior Universitario;No pobre
 3200000;Superior Universitario;Pobre no extremo
-7102No obtuvo1;Militar/Policial;No pobre
+7102141;Militar/Policial;No pobre
 2000000;Especialización (Post universitario);No pobre
 1500000;Superior Universitario;No pobre
 2000000;No obtuvo;No pobre
@@ -4623,7 +4623,7 @@ No obtuvo80000;No obtuvo;No pobre
 3680000;Superior Universitario;No pobre
 3940000;Superior Universitario;No pobre
 6680000;Superior Universitario;No pobre
-Militar/Policial (Post no universitario)00000;No obtuvo;No pobre
+1200000;No obtuvo;No pobre
 2000000;No obtuvo;No pobre
 4000000;Superior Universitario;No pobre
 0;No obtuvo;No pobre
@@ -4650,7 +4650,7 @@ Militar/Policial (Post no universitario)00000;No obtuvo;No pobre
 0;No obtuvo;Pobre no extremo
 2680000;Superior Universitario;No pobre
 2580000;Técnica Superior;No pobre
-Militar/Policial (Post no universitario)00000;Superior Universitario;No pobre
+1200000;Superior Universitario;No pobre
 5200000;Militar/Policial;No pobre
 500000;No obtuvo;No pobre
 0;No obtuvo;Pobre no extremo
@@ -4740,14 +4740,14 @@ Militar/Policial (Post no universitario)00000;Superior Universitario;No pobre
 3900000;Especialización (Post universitario);No pobre
 4050000;Especialización (Post universitario);No pobre
 4050000;Especialización (Post universitario);No pobre
-Militar/Policial (Post no universitario)80000;No obtuvo;Pobre no extremo
+1280000;No obtuvo;Pobre no extremo
 1000000;No obtuvo;No pobre
 1800000;Militar/Policial;No pobre
 0;No obtuvo;No pobre
 1600000;No obtuvo;No pobre
 0;No obtuvo;Pobre no extremo
 3200000;No obtuvo;No pobre
-No obtuvo00000;No obtuvo;No pobre
+1400000;No obtuvo;No pobre
 800000;Superior Universitario;No pobre
 2600000;Técnica Superior;No pobre
 250000;No obtuvo;No pobre
@@ -4770,10 +4770,10 @@ No obtuvo00000;No obtuvo;No pobre
 1500000;Técnica Superior;No pobre
 2500000;No obtuvo;No pobre
 0;EEB (1º y 2º ciclo);No pobre
-Militar/Policial (Post no universitario)00000;Superior Universitario;No pobre
+1200000;Superior Universitario;No pobre
 0;EEB (3er ciclo);No pobre
 5000000;Superior Universitario;No pobre
-Militar/Policial (Post no universitario)00000;No obtuvo;No pobre
+1200000;No obtuvo;No pobre
 3000000;No obtuvo;No pobre
 1000000;Superior Universitario;No pobre
 2570000;Superior Universitario;No pobre
@@ -4781,7 +4781,7 @@ Militar/Policial (Post no universitario)00000;No obtuvo;No pobre
 0;No obtuvo;No pobre
 3000000;Superior Universitario;No pobre
 1500000;Superior Universitario;No pobre
-No Técnico Superior (Post no universitario)00000;No obtuvo;No pobre
+1300000;No obtuvo;No pobre
 3000000;Superior Universitario;No pobre
 1000000;No obtuvo;No pobre
 0;No obtuvo;No pobre
@@ -4792,10 +4792,10 @@ No Técnico Superior (Post no universitario)00000;No obtuvo;No pobre
 2500000;Superior Universitario;No pobre
 0;No obtuvo;Pobre no extremo
 2000000;Superior Universitario;No pobre
-Militar/Policial (Post no universitario)00000;No obtuvo;No pobre
+1200000;No obtuvo;No pobre
 1040000;No obtuvo;No pobre
 2500000;No obtuvo;No pobre
-No obtuvo00000;No obtuvo;No pobre
+1400000;No obtuvo;No pobre
 800000;No obtuvo;No pobre
 0;Superior Universitario;No pobre
 2300000;No obtuvo;No pobre
@@ -4827,10 +4827,10 @@ No obtuvo00000;No obtuvo;No pobre
 3500000;Militar/Policial;No pobre
 0;No obtuvo;No pobre
 3850000;Técnica Superior;No pobre
-85829Militar/Policial (Post no universitario);Superior Universitario;No pobre
+8582912;Superior Universitario;No pobre
 1800000;Técnica Superior;No pobre
 0;EEB (1º y 2º ciclo);No pobre
-Militar/Policial (Post no universitario)000000;Doctorado (Post universitario);No pobre
+12000000;Doctorado (Post universitario);No pobre
 3000000;Especialización (Post universitario);No pobre
 2500000;Superior Universitario;No pobre
 0;No obtuvo;No pobre
@@ -4838,26 +4838,26 @@ Militar/Policial (Post no universitario)000000;Doctorado (Post universitario);No
 0;No obtuvo;No pobre
 0;No obtuvo;No pobre
 3600000;EEB (1º y 2º ciclo);No pobre
-Militar/Policial (Post no universitario)00000;Técnica Superior;No pobre
+1200000;Técnica Superior;No pobre
 6318500;Militar/Policial;No pobre
-No obtuvo00000;No obtuvo;No pobre
+1400000;No obtuvo;No pobre
 0;No obtuvo;No pobre
-1Militar/Policial (Post no universitario)0000;No obtuvo;No pobre
+1120000;No obtuvo;No pobre
 2500000;Técnica Superior;No pobre
 2000000;Superior Universitario;No pobre
 0;No obtuvo;No pobre
 2000000;Superior Universitario;No pobre
 0;No obtuvo;No pobre
 4580000;Superior Universitario;No pobre
-Militar/Policial (Post no universitario)00000;No obtuvo;No pobre
+1200000;No obtuvo;No pobre
 2500000;Superior Universitario;No pobre
 4000000;Superior Universitario;No pobre
 3000000;Técnica Superior;No pobre
 0;No obtuvo;No pobre
 4700000;Militar/Policial;No pobre
 8500000;Superior Universitario;No pobre
-Militar/Policial (Post no universitario)00000;No obtuvo;No pobre
-Militar/Policial (Post no universitario)00000;No obtuvo;No pobre
+1200000;No obtuvo;No pobre
+1200000;No obtuvo;No pobre
 3000000;Superior Universitario;No pobre
 3000000;Superior Universitario;No pobre
 0;Superior Universitario;No pobre
@@ -4874,7 +4874,7 @@ Militar/Policial (Post no universitario)00000;No obtuvo;No pobre
 0;No obtuvo;No pobre
 500000;Superior Universitario;No pobre
 500000;Superior Universitario;No pobre
-Militar/Policial (Post no universitario)00000;Superior Universitario;No pobre
+1200000;Superior Universitario;No pobre
 0;EEB (1º y 2º ciclo);No pobre
 1800000;Superior Universitario;No pobre
 2350000;Superior Universitario;No pobre
@@ -4901,7 +4901,7 @@ Militar/Policial (Post no universitario)00000;Superior Universitario;No pobre
 3928000;Superior Universitario;No pobre
 2200000;Superior Universitario;No pobre
 0;No obtuvo;No pobre
-Militar/Policial (Post no universitario)000000;Superior Universitario;No pobre
+12000000;Superior Universitario;No pobre
 920000;Técnica Superior;No pobre
 7000000;Especialización (Post universitario);No pobre
 9700000;Superior Universitario;No pobre
@@ -4937,7 +4937,7 @@ Militar/Policial (Post no universitario)000000;Superior Universitario;No pobre
 0;No obtuvo;Pobre no extremo
 0;Superior Universitario;No pobre
 350000;No obtuvo;No pobre
-Militar/Policial (Post no universitario)00000;Superior Universitario;Pobre no extremo
+1200000;Superior Universitario;Pobre no extremo
 0;No obtuvo;Pobre no extremo
 5000000;No obtuvo;No pobre
 4600000;Especialización (Post universitario);No pobre
@@ -4947,13 +4947,13 @@ Militar/Policial (Post no universitario)00000;Superior Universitario;Pobre no ex
 0;No obtuvo;No pobre
 0;No obtuvo;No pobre
 0;Superior Universitario;No pobre
-53104Militar/Policial (Post no universitario);EEB (1º y 2º ciclo);No pobre
+5310412;EEB (1º y 2º ciclo);No pobre
 0;No obtuvo;No pobre
 4000000;Superior Universitario;No pobre
 0;No obtuvo;No pobre
 3000000;EEB (1º y 2º ciclo);No pobre
 0;EEB (1º y 2º ciclo);No pobre
-Militar/Policial (Post no universitario)00000;Superior Universitario;No pobre
+1200000;Superior Universitario;No pobre
 1600000;No obtuvo;No pobre
 5600000;Superior Universitario;No pobre
 0;No obtuvo;No pobre
@@ -4996,7 +4996,7 @@ Militar/Policial (Post no universitario)00000;Superior Universitario;No pobre
 2000000;No obtuvo;No pobre
 5000000;Superior Universitario;No pobre
 0;EEB (1º y 2º ciclo);No pobre
-Militar/Policial (Post no universitario)500000;Superior Universitario;No pobre
+12500000;Superior Universitario;No pobre
 2680000;Superior Universitario;No pobre
 0;No obtuvo;No pobre
 0;Superior Universitario;No pobre
@@ -5033,7 +5033,7 @@ Militar/Policial (Post no universitario)500000;Superior Universitario;No pobre
 1600000;Técnica Superior;No pobre
 0;Técnica Superior;No pobre
 2480000;No obtuvo;No pobre
-Militar/Policial (Post no universitario)50000;Superior Universitario;No pobre
+1250000;Superior Universitario;No pobre
 4500000;EEB (1º y 2º ciclo);No pobre
 0;No obtuvo;No pobre
 1600000;EEB (3er ciclo);No pobre
@@ -5046,7 +5046,7 @@ Militar/Policial (Post no universitario)50000;Superior Universitario;No pobre
 2500000;Especialización (Post universitario);No pobre
 2500000;EEB (1º y 2º ciclo);No pobre
 0;Superior Universitario;No pobre
-Militar/Policial (Post no universitario)00000;No obtuvo;No pobre
+1200000;No obtuvo;No pobre
 0;No obtuvo;No pobre
 0;EEB (1º y 2º ciclo);No pobre
 0;No obtuvo;Pobre no extremo
@@ -5064,7 +5064,7 @@ Militar/Policial (Post no universitario)00000;No obtuvo;No pobre
 3500000;Superior Universitario;No pobre
 2683373;No obtuvo;Pobre no extremo
 0;No obtuvo;Pobre no extremo
-Militar/Policial (Post no universitario)00000;Educación Media;No pobre
+1200000;Educación Media;No pobre
 6000000;Superior Universitario;No pobre
 4500000;EEB (1º y 2º ciclo);No pobre
 0;No obtuvo;Pobre no extremo
@@ -5082,7 +5082,7 @@ Militar/Policial (Post no universitario)00000;Educación Media;No pobre
 500000;Superior Universitario;No pobre
 2400000;No obtuvo;No pobre
 5000000;EEB (1º y 2º ciclo);No pobre
-No obtuvo00000;Superior Universitario;Pobre no extremo
+1400000;Superior Universitario;Pobre no extremo
 400000;Superior Universitario;Pobre no extremo
 0;Superior Universitario;No pobre
 4500000;EEB (1º y 2º ciclo);No pobre
@@ -5104,13 +5104,13 @@ No obtuvo00000;Superior Universitario;Pobre no extremo
 2800000;No obtuvo;No pobre
 3060000;EEB (1º y 2º ciclo);No pobre
 1000000;No obtuvo;No pobre
-4Militar/Policial (Post no universitario)0000;No obtuvo;No pobre
+4120000;No obtuvo;No pobre
 2020000;No obtuvo;No pobre
 3300000;No obtuvo;No pobre
 4000000;Militar/Policial;No pobre
 0;EEB (1º y 2º ciclo);No pobre
-53104Militar/Policial (Post no universitario);EEB (1º y 2º ciclo);No pobre
-53104Militar/Policial (Post no universitario);Superior Universitario;No pobre
+5310412;EEB (1º y 2º ciclo);No pobre
+5310412;Superior Universitario;No pobre
 0;No obtuvo;No pobre
 800000;No obtuvo;Pobre no extremo
 4500000;No obtuvo;No pobre
@@ -5126,7 +5126,7 @@ No obtuvo00000;Superior Universitario;Pobre no extremo
 0;No obtuvo;No pobre
 3000000;No obtuvo;No pobre
 0;Superior Universitario;No pobre
-2439No Técnico Superior (Post no universitario)9;Superior Universitario;No pobre
+2439139;Superior Universitario;No pobre
 7800000;Militar/Policial;No pobre
 6960000;Superior Universitario;No pobre
 3300000;Superior Universitario;No pobre
@@ -5136,7 +5136,7 @@ No obtuvo00000;Superior Universitario;Pobre no extremo
 5060000;Militar/Policial;No pobre
 0;No obtuvo;No pobre
 4600000;Militar/Policial;No pobre
-Militar/Policial (Post no universitario)00000;EEB (1º y 2º ciclo);No pobre
+1200000;EEB (1º y 2º ciclo);No pobre
 800000;No obtuvo;Pobre no extremo
 2000000;No obtuvo;No pobre
 4200000;Superior Universitario;No pobre
@@ -5166,17 +5166,17 @@ Militar/Policial (Post no universitario)00000;EEB (1º y 2º ciclo);No pobre
 0;EEB (1º y 2º ciclo);No pobre
 8000000;EEB (3er ciclo);No pobre
 300000;Superior Universitario;No pobre
-Militar/Policial (Post no universitario)00000;No obtuvo;No pobre
+1200000;No obtuvo;No pobre
 2700000;Superior Universitario;No pobre
 4000000;Superior Universitario;No pobre
-Militar/Policial (Post no universitario)000000;No obtuvo;No pobre
+12000000;No obtuvo;No pobre
 2500000;No obtuvo;No pobre
 5200000;Superior Universitario;No pobre
-Militar/Policial (Post no universitario)00000;Superior Universitario;No pobre
+1200000;Superior Universitario;No pobre
 7000000;Superior Universitario;No pobre
 500000;No obtuvo;No pobre
-1No obtuvo00000;Superior Universitario;No pobre
-Militar/Policial (Post no universitario)000000;Superior Universitario;No pobre
+11400000;Superior Universitario;No pobre
+12000000;Superior Universitario;No pobre
 3000000;No obtuvo;No pobre
 0;No obtuvo;No pobre
 2500000;No obtuvo;No pobre
@@ -5235,7 +5235,7 @@ Militar/Policial (Post no universitario)000000;Superior Universitario;No pobre
 5000000;Superior Universitario;No pobre
 0;Técnica Superior;No pobre
 3000000;Superior Universitario;No pobre
-Militar/Policial (Post no universitario)00000;EEB (1º y 2º ciclo);No pobre
+1200000;EEB (1º y 2º ciclo);No pobre
 2500000;No obtuvo;No pobre
 3100000;Superior Universitario;No pobre
 3100000;Superior Universitario;No pobre
@@ -5276,15 +5276,15 @@ Militar/Policial (Post no universitario)00000;EEB (1º y 2º ciclo);No pobre
 10670000;No obtuvo;No pobre
 4500000;Superior Universitario;No pobre
 0;No obtuvo;No pobre
-Militar/Policial (Post no universitario)000000;Superior Universitario;No pobre
+12000000;Superior Universitario;No pobre
 0;No obtuvo;No pobre
 5000000;Especialización (Post universitario);No pobre
 0;Superior Universitario;No pobre
 5000000;Superior Universitario;No pobre
-Militar/Policial (Post no universitario)000000;Superior Universitario;No pobre
+12000000;Superior Universitario;No pobre
 0;Superior Universitario;No pobre
 8000000;Superior Universitario;No pobre
-Militar/Policial (Post no universitario)000000;Superior Universitario;No pobre
+12000000;Superior Universitario;No pobre
 0;Superior Universitario;No pobre
 1100000;Superior Universitario;No pobre
 5410000;Militar/Policial;No pobre
@@ -5304,7 +5304,7 @@ Militar/Policial (Post no universitario)000000;Superior Universitario;No pobre
 5000000;Superior Universitario;No pobre
 5550000;No obtuvo;No pobre
 0;Superior Universitario;Pobre extremo
-Militar/Policial (Post no universitario)00000;No obtuvo;No pobre
+1200000;No obtuvo;No pobre
 0;No obtuvo;No pobre
 0;No obtuvo;No pobre
 0;No obtuvo;No pobre
@@ -5386,7 +5386,7 @@ Militar/Policial (Post no universitario)00000;No obtuvo;No pobre
 4000000;Superior Universitario;No pobre
 0;No obtuvo;No pobre
 1500000;No obtuvo;No pobre
-Militar/Policial (Post no universitario)000000;Superior Universitario;No pobre
+12000000;Superior Universitario;No pobre
 0;Superior Universitario;No pobre
 2500000;No obtuvo;No pobre
 3500000;No obtuvo;No pobre
@@ -5426,7 +5426,7 @@ Militar/Policial (Post no universitario)000000;Superior Universitario;No pobre
 0;Superior Universitario;No pobre
 0;Técnica Superior;No pobre
 2400000;Superior Universitario;No pobre
-No Técnico Superior (Post no universitario)00000;No obtuvo;No pobre
+1300000;No obtuvo;No pobre
 4000000;No obtuvo;No pobre
 2000000;No obtuvo;Pobre no extremo
 3000000;Técnica Superior;No pobre
@@ -5446,7 +5446,7 @@ No Técnico Superior (Post no universitario)00000;No obtuvo;No pobre
 0;Superior Universitario;No pobre
 1800000;Superior Universitario;No pobre
 2000000;No obtuvo;Pobre no extremo
-3No Técnico Superior (Post no universitario)0000;Militar/Policial;Pobre no extremo
+3130000;Militar/Policial;Pobre no extremo
 2500000;Superior Universitario;No pobre
 5000000;EEB (1º y 2º ciclo);No pobre
 0;No obtuvo;No pobre
@@ -5550,7 +5550,7 @@ No Técnico Superior (Post no universitario)00000;No obtuvo;No pobre
 3900000;Superior Universitario;No pobre
 6350000;No obtuvo;No pobre
 6000000;Superior Universitario;No pobre
-Militar/Policial (Post no universitario)000000;Superior Universitario;No pobre
+12000000;Superior Universitario;No pobre
 4100000;Superior Universitario;No pobre
 8000000;Superior Universitario;No pobre
 2000000;No obtuvo;No pobre
@@ -5628,7 +5628,7 @@ Militar/Policial (Post no universitario)000000;Superior Universitario;No pobre
 4000000;Superior Universitario;No pobre
 20000000;No obtuvo;No pobre
 0;Superior Universitario;No pobre
-Militar/Policial (Post no universitario)000000;Superior Universitario;No pobre
+12000000;Superior Universitario;No pobre
 5950000;Superior Universitario;No pobre
 0;No obtuvo;No pobre
 0;No obtuvo;No pobre
@@ -5696,7 +5696,7 @@ Militar/Policial (Post no universitario)000000;Superior Universitario;No pobre
 3600000;No obtuvo;No pobre
 2500000;Superior Universitario;No pobre
 2500000;No obtuvo;No pobre
-No obtuvo00000;No obtuvo;No pobre
+1400000;No obtuvo;No pobre
 5000000;Técnica Superior;No pobre
 2900000;No obtuvo;No pobre
 0;No obtuvo;No pobre
@@ -5710,7 +5710,7 @@ No obtuvo00000;No obtuvo;No pobre
 4500000;Superior Universitario;No pobre
 1780000;No obtuvo;No pobre
 0;No obtuvo;No pobre
-Militar/Policial (Post no universitario)50000;No obtuvo;No pobre
+1250000;No obtuvo;No pobre
 2800000;No obtuvo;No pobre
 6000000;Superior Universitario;No pobre
 0;No Técnico Superior (Post no universitario);No pobre
@@ -5732,7 +5732,7 @@ Militar/Policial (Post no universitario)50000;No obtuvo;No pobre
 6450000;Superior Universitario;No pobre
 2500000;Superior Universitario;No pobre
 1000000;Superior Universitario;Pobre no extremo
-Militar/Policial (Post no universitario)00000;Superior Universitario;Pobre no extremo
+1200000;Superior Universitario;Pobre no extremo
 1580000;Superior Universitario;No pobre
 2800000;Superior Universitario;No pobre
 5000000;Superior Universitario;No pobre
@@ -5756,11 +5756,11 @@ Militar/Policial (Post no universitario)00000;Superior Universitario;Pobre no ex
 2200000;Superior Universitario;No pobre
 2200000;No obtuvo;No pobre
 2500000;No obtuvo;No pobre
-Militar/Policial (Post no universitario)600000;Superior Universitario;No pobre
+12600000;Superior Universitario;No pobre
 6000000;Superior Universitario;No pobre
 0;No obtuvo;No pobre
 3280000;No obtuvo;No pobre
-No obtuvo00000;No obtuvo;No pobre
+1400000;No obtuvo;No pobre
 2500000;Superior Universitario;No pobre
 3500000;No obtuvo;No pobre
 4600000;Superior Universitario;No pobre
@@ -5795,7 +5795,7 @@ No obtuvo00000;No obtuvo;No pobre
 3320000;No obtuvo;No pobre
 0;No obtuvo;No pobre
 0;No obtuvo;Pobre no extremo
-No obtuvo00000;No obtuvo;Pobre no extremo
+1400000;No obtuvo;Pobre no extremo
 1500000;No obtuvo;No pobre
 4000000;No obtuvo;No pobre
 2000000;Superior Universitario;No pobre
@@ -5808,10 +5808,10 @@ No obtuvo00000;No obtuvo;Pobre no extremo
 5500000;Superior Universitario;No pobre
 10000000;Superior Universitario;No pobre
 2252307;Superior Universitario;No pobre
-No obtuvo00000;No obtuvo;No pobre
+1400000;No obtuvo;No pobre
 0;No obtuvo;No pobre
 2000000;Superior Universitario;No pobre
-Militar/Policial (Post no universitario)50000;No obtuvo;No pobre
+1250000;No obtuvo;No pobre
 4000000;No obtuvo;No pobre
 2500000;No obtuvo;No pobre
 8000000;Superior Universitario;No pobre
@@ -5840,7 +5840,7 @@ Militar/Policial (Post no universitario)50000;No obtuvo;No pobre
 2500000;No obtuvo;No pobre
 3400000;EEB (1º y 2º ciclo);No pobre
 0;No obtuvo;No pobre
-Militar/Policial (Post no universitario)00000;No obtuvo;No pobre
+1200000;No obtuvo;No pobre
 600000;No obtuvo;No pobre
 1800000;EEB (1º y 2º ciclo);No pobre
 2000000;No obtuvo;No pobre
@@ -5852,7 +5852,7 @@ Militar/Policial (Post no universitario)00000;No obtuvo;No pobre
 0;No obtuvo;Pobre no extremo
 0;Superior Universitario;Pobre no extremo
 1000000;Superior Universitario;Pobre no extremo
-Militar/Policial (Post no universitario)10000;No obtuvo;No pobre
+1210000;No obtuvo;No pobre
 4500000;EEB (1º y 2º ciclo);No pobre
 1500000;No obtuvo;No pobre
 0;No obtuvo;No pobre
@@ -5881,7 +5881,7 @@ Militar/Policial (Post no universitario)10000;No obtuvo;No pobre
 2550000;Superior Universitario;No pobre
 3780000;No obtuvo;No pobre
 2500000;No obtuvo;No pobre
-Militar/Policial (Post no universitario)00000;No obtuvo;No pobre
+1200000;No obtuvo;No pobre
 0;Superior Universitario;No pobre
 7000000;Superior Universitario;No pobre
 0;No obtuvo;No pobre
@@ -5899,7 +5899,7 @@ Militar/Policial (Post no universitario)00000;No obtuvo;No pobre
 2740000;No obtuvo;No pobre
 1500000;No obtuvo;No pobre
 1500000;No obtuvo;No pobre
-No Técnico Superior (Post no universitario)00000;Superior Universitario;No pobre
+1300000;Superior Universitario;No pobre
 2600000;Superior Universitario;No pobre
 2400000;No obtuvo;No pobre
 4800000;EEB (1º y 2º ciclo);No pobre
@@ -5923,7 +5923,7 @@ No Técnico Superior (Post no universitario)00000;Superior Universitario;No pobr
 7200000;Superior Universitario;No pobre
 0;No obtuvo;No pobre
 5660000;Superior Universitario;No pobre
-Militar/Policial (Post no universitario)00000;No obtuvo;No pobre
+1200000;No obtuvo;No pobre
 3000000;Superior Universitario;No pobre
 0;No obtuvo;No pobre
 2000000;Superior Universitario;No pobre
@@ -5935,7 +5935,7 @@ Militar/Policial (Post no universitario)00000;No obtuvo;No pobre
 0;No obtuvo;No pobre
 400000;No obtuvo;No pobre
 4580000;EEB (3er ciclo);No pobre
-32No obtuvo000;No obtuvo;No pobre
+3214000;No obtuvo;No pobre
 0;EEB (1º y 2º ciclo);No pobre
 2800000;Superior Universitario;No pobre
 3000000;EEB (1º y 2º ciclo);No pobre
@@ -5948,7 +5948,7 @@ Militar/Policial (Post no universitario)00000;No obtuvo;No pobre
 3000000;Superior Universitario;No pobre
 0;No obtuvo;No pobre
 0;No obtuvo;No pobre
-4Militar/Policial (Post no universitario)3000;Superior Universitario;No pobre
+4123000;Superior Universitario;No pobre
 0;Superior Universitario;No pobre
 6000000;Superior Universitario;No pobre
 1600000;No obtuvo;No pobre
@@ -6031,7 +6031,7 @@ Militar/Policial (Post no universitario)00000;No obtuvo;No pobre
 4000000;No obtuvo;No pobre
 2500000;No obtuvo;No pobre
 8600000;Superior Universitario;No pobre
-No Técnico Superior (Post no universitario)00000;Especialización (Post universitario);No pobre
+1300000;Especialización (Post universitario);No pobre
 2800000;No obtuvo;No pobre
 40000000;Superior Universitario;No pobre
 0;Superior Universitario;No pobre
@@ -6065,14 +6065,14 @@ No Técnico Superior (Post no universitario)00000;Especialización (Post univers
 5000000;Superior Universitario;No pobre
 5000000;Superior Universitario;No pobre
 4500000;Superior Universitario;No pobre
-No obtuvo000000;Superior Universitario;No pobre
+14000000;Superior Universitario;No pobre
 5000000;Superior Universitario;No pobre
 2600000;Superior Universitario;No pobre
 2500000;Superior Universitario;No pobre
 2500000;Superior Universitario;No pobre
 4000000;Superior Universitario;No pobre
 3100000;No obtuvo;No pobre
-No obtuvo000000;Superior Universitario;No pobre
+14000000;Superior Universitario;No pobre
 0;Superior Universitario;No pobre
 5000000;Superior Universitario;No pobre
 6000000;Superior Universitario;No pobre
@@ -6140,7 +6140,7 @@ No obtuvo000000;Superior Universitario;No pobre
 1800000;Educación Inicial;Pobre no extremo
 0;No obtuvo;Pobre no extremo
 0;No obtuvo;No pobre
-Militar/Policial (Post no universitario)40000;No obtuvo;No pobre
+1240000;No obtuvo;No pobre
 0;Superior Universitario;No pobre
 0;No obtuvo;No pobre
 1500000;No obtuvo;No pobre
@@ -6273,7 +6273,7 @@ Militar/Policial (Post no universitario)40000;No obtuvo;No pobre
 3500000;No obtuvo;No pobre
 0;Especialización (Post universitario);No pobre
 2350000;Educación Media;No pobre
-No Técnico Superior (Post no universitario)00000;No obtuvo;No pobre
+1300000;No obtuvo;No pobre
 2650000;No obtuvo;No pobre
 10000000;Superior Universitario;No pobre
 8000000;Educación Media;No pobre
@@ -6292,7 +6292,7 @@ No Técnico Superior (Post no universitario)00000;No obtuvo;No pobre
 3800000;Superior Universitario;No pobre
 0;No obtuvo;No pobre
 560000;Superior Universitario;No pobre
-No obtuvo00000;No obtuvo;No pobre
+1400000;No obtuvo;No pobre
 6000000;Educación Inicial;No pobre
 2400000;No obtuvo;No pobre
 2000000;Superior Universitario;No pobre
@@ -6380,7 +6380,7 @@ No obtuvo00000;No obtuvo;No pobre
 5000000;Militar/Policial;No pobre
 7000000;Superior Universitario;No pobre
 5400000;Superior Universitario;No pobre
-7Militar/Policial (Post no universitario)5000;Superior Universitario;No pobre
+7125000;Superior Universitario;No pobre
 6950000;Superior Universitario;No pobre
 0;Superior Universitario;No pobre
 0;No obtuvo;No pobre
@@ -6389,7 +6389,7 @@ No obtuvo00000;No obtuvo;No pobre
 4400000;No obtuvo;No pobre
 0;No obtuvo;No pobre
 9300000;Superior Universitario;No pobre
-Militar/Policial (Post no universitario)00000;Técnica Superior;No pobre
+1200000;Técnica Superior;No pobre
 0;Superior Universitario;No pobre
 3000000;No obtuvo;No pobre
 0;No obtuvo;No pobre
@@ -6438,7 +6438,7 @@ Militar/Policial (Post no universitario)00000;Técnica Superior;No pobre
 7400000;No obtuvo;No pobre
 3000000;No obtuvo;No pobre
 0;No obtuvo;No pobre
-Militar/Policial (Post no universitario)930000;Especialización (Post universitario);No pobre
+12930000;Especialización (Post universitario);No pobre
 0;No obtuvo;No pobre
 0;No obtuvo;No pobre
 4000000;Superior Universitario;No pobre
@@ -6511,7 +6511,7 @@ Militar/Policial (Post no universitario)930000;Especialización (Post universita
 0;Superior Universitario;No pobre
 0;Superior Universitario;No pobre
 0;Superior Universitario;No pobre
-4Militar/Policial (Post no universitario)0000;Especialización (Post universitario);No pobre
+4120000;Especialización (Post universitario);No pobre
 0;No obtuvo;No pobre
 5000000;Superior Universitario;No pobre
 0;No obtuvo;Pobre no extremo
@@ -6533,7 +6533,7 @@ Militar/Policial (Post no universitario)930000;Especialización (Post universita
 0;Superior Universitario;No pobre
 3000000;No obtuvo;No pobre
 2600000;Superior Universitario;No pobre
-3Militar/Policial (Post no universitario)0000;No obtuvo;No pobre
+3120000;No obtuvo;No pobre
 3200000;Superior Universitario;No pobre
 2700000;No obtuvo;No pobre
 2240000;No obtuvo;No pobre
@@ -6550,7 +6550,7 @@ Militar/Policial (Post no universitario)930000;Especialización (Post universita
 6370000;Superior Universitario;No pobre
 3000000;Superior Universitario;No pobre
 3000000;Superior Universitario;No pobre
-Militar/Policial (Post no universitario)000000;No obtuvo;No pobre
+12000000;No obtuvo;No pobre
 2000000;Maestría (Post universitario);No pobre
 3000000;No obtuvo;No pobre
 0;No obtuvo;No pobre
@@ -6572,7 +6572,7 @@ Militar/Policial (Post no universitario)000000;No obtuvo;No pobre
 0;Superior Universitario;No pobre
 4000000;Superior Universitario;No pobre
 3000000;No obtuvo;No pobre
-Militar/Policial (Post no universitario)000000;Superior Universitario;No pobre
+12000000;Superior Universitario;No pobre
 6500000;Superior Universitario;No pobre
 0;No obtuvo;Pobre extremo
 15000000;Maestría (Post universitario);No pobre
@@ -6599,18 +6599,18 @@ Militar/Policial (Post no universitario)000000;Superior Universitario;No pobre
 2500000;Superior Universitario;No pobre
 2500000;No obtuvo;No pobre
 2000000;No obtuvo;No pobre
-No obtuvo00000;No obtuvo;No pobre
+1400000;No obtuvo;No pobre
 3000000;No obtuvo;No pobre
 3000000;Superior Universitario;No pobre
 0;Superior Universitario;No pobre
 3202000;No obtuvo;No pobre
 0;Superior Universitario;No pobre
-Militar/Policial (Post no universitario)00000;Técnica Superior;No pobre
+1200000;Técnica Superior;No pobre
 3000000;Superior Universitario;No pobre
 2800000;No obtuvo;No pobre
 3000000;No obtuvo;No pobre
 10000000;Superior Universitario;No pobre
-2439No Técnico Superior (Post no universitario)9;Superior Universitario;No pobre
+2439139;Superior Universitario;No pobre
 4100000;Especialización (Post universitario);No pobre
 3200000;No obtuvo;No pobre
 4600000;No obtuvo;No pobre
@@ -6646,7 +6646,7 @@ Militar/Policial (Post no universitario)00000;Técnica Superior;No pobre
 2500000;Superior Universitario;No pobre
 8000000;Técnica Superior;No pobre
 2650000;No obtuvo;No pobre
-Militar/Policial (Post no universitario)00000;No obtuvo;No pobre
+1200000;No obtuvo;No pobre
 2800000;No obtuvo;No pobre
 4500000;EEB (3er ciclo);No pobre
 1520000;No obtuvo;No pobre
@@ -6662,7 +6662,7 @@ Militar/Policial (Post no universitario)00000;No obtuvo;No pobre
 0;Técnica Superior;No pobre
 7000000;Superior Universitario;No pobre
 0;Superior Universitario;No pobre
-Militar/Policial (Post no universitario)00000;EEB (3er ciclo);No pobre
+1200000;EEB (3er ciclo);No pobre
 2500000;EEB (1º y 2º ciclo);No pobre
 6000000;Superior Universitario;No pobre
 0;EEB (1º y 2º ciclo);No pobre
@@ -6707,8 +6707,8 @@ Militar/Policial (Post no universitario)00000;EEB (3er ciclo);No pobre
 6182000;No obtuvo;No pobre
 3200000;No obtuvo;No pobre
 3790000;No obtuvo;No pobre
-No obtuvo000000;Militar/Policial;No pobre
-3Militar/Policial (Post no universitario)0000;Superior Universitario;No pobre
+14000000;Militar/Policial;No pobre
+3120000;Superior Universitario;No pobre
 2000000;No obtuvo;No pobre
 1000000;No obtuvo;Pobre no extremo
 3300000;Superior Universitario;No pobre
@@ -6747,7 +6747,7 @@ No obtuvo000000;Militar/Policial;No pobre
 9200000;EEB (3er ciclo);No pobre
 0;Técnica Superior;No pobre
 740000;No obtuvo;No pobre
-No obtuvo00000;Superior Universitario;No pobre
+1400000;Superior Universitario;No pobre
 3000000;Superior Universitario;No pobre
 3600000;Superior Universitario;No pobre
 600000;Técnica Superior;No pobre
@@ -6797,7 +6797,7 @@ No obtuvo00000;Superior Universitario;No pobre
 1000000;Técnica Superior;Pobre no extremo
 1000000;Superior Universitario;No pobre
 2800000;No obtuvo;No pobre
-No Técnico Superior (Post no universitario)200000;No obtuvo;No pobre
+13200000;No obtuvo;No pobre
 11000000;Superior Universitario;No pobre
 3000000;No obtuvo;No pobre
 0;Especialización (Post universitario);No pobre
@@ -6859,7 +6859,7 @@ No Técnico Superior (Post no universitario)200000;No obtuvo;No pobre
 0;Superior Universitario;No pobre
 0;No obtuvo;No pobre
 0;Superior Universitario;No pobre
-Militar/Policial (Post no universitario)000000;Superior Universitario;No pobre
+12000000;Superior Universitario;No pobre
 7200000;Superior Universitario;No pobre
 3500000;Superior Universitario;No pobre
 0;No obtuvo;No pobre
@@ -6912,7 +6912,7 @@ Militar/Policial (Post no universitario)000000;Superior Universitario;No pobre
 5000000;EEB (1º y 2º ciclo);No pobre
 2500000;No obtuvo;No pobre
 8000000;Superior Universitario;No pobre
-Militar/Policial (Post no universitario)000000;Superior Universitario;No pobre
+12000000;Superior Universitario;No pobre
 0;Especialización (Post universitario);No pobre
 0;No obtuvo;No pobre
 10904250;Maestría (Post universitario);No pobre
@@ -6925,7 +6925,7 @@ Militar/Policial (Post no universitario)000000;Superior Universitario;No pobre
 0;Superior Universitario;No pobre
 0;No obtuvo;No pobre
 6000000;Superior Universitario;No pobre
-Militar/Policial (Post no universitario)00000;Superior Universitario;No pobre
+1200000;Superior Universitario;No pobre
 4200000;Superior Universitario;No pobre
 3000000;Superior Universitario;No pobre
 15000000;Especialización (Post universitario);No pobre
@@ -6958,7 +6958,7 @@ Militar/Policial (Post no universitario)00000;Superior Universitario;No pobre
 2700000;No obtuvo;No pobre
 4250000;No obtuvo;No pobre
 1800000;Especialización (Post universitario);No pobre
-1Militar/Policial (Post no universitario)00000;Superior Universitario;No pobre
+11200000;Superior Universitario;No pobre
 2000000;Superior Universitario;No pobre
 2500000;No obtuvo;No pobre
 800000;EEB (1º y 2º ciclo);No pobre
@@ -6971,7 +6971,7 @@ Militar/Policial (Post no universitario)00000;Superior Universitario;No pobre
 4000000;Superior Universitario;No pobre
 3500000;No obtuvo;No pobre
 2800000;No obtuvo;No pobre
-16No Técnico Superior (Post no universitario)6000;Superior Universitario;No pobre
+16136000;Superior Universitario;No pobre
 2500000;No obtuvo;No pobre
 0;No obtuvo;Pobre no extremo
 3000000;No obtuvo;No pobre
@@ -7100,7 +7100,7 @@ Militar/Policial (Post no universitario)00000;Superior Universitario;No pobre
 6500000;Militar/Policial;No pobre
 3000000;No obtuvo;No pobre
 0;No obtuvo;Pobre no extremo
-2439No Técnico Superior (Post no universitario)9;Técnica Superior;No pobre
+2439139;Técnica Superior;No pobre
 0;No obtuvo;No pobre
 11000000;Superior Universitario;No pobre
 0;No obtuvo;No pobre
@@ -7127,9 +7127,9 @@ Militar/Policial (Post no universitario)00000;Superior Universitario;No pobre
 2500000;No obtuvo;No pobre
 3800000;No obtuvo;No pobre
 10000000;Especialización (Post universitario);No pobre
-Militar/Policial (Post no universitario)00000;Superior Universitario;Pobre no extremo
+1200000;Superior Universitario;Pobre no extremo
 0;Superior Universitario;No pobre
-2No Técnico Superior (Post no universitario)0000;No obtuvo;No pobre
+2130000;No obtuvo;No pobre
 2700000;Especialización (Post universitario);No pobre
 2480000;Superior Universitario;No pobre
 8060000;EEB (1º y 2º ciclo);No pobre
@@ -7180,7 +7180,7 @@ Militar/Policial (Post no universitario)00000;Superior Universitario;Pobre no ex
 1040000;Técnica Superior;No pobre
 0;No obtuvo;No pobre
 3160000;EEB (1º y 2º ciclo);No pobre
-Militar/Policial (Post no universitario)000000;Maestría (Post universitario);No pobre
+12000000;Maestría (Post universitario);No pobre
 0;Superior Universitario;No pobre
 4500000;Superior Universitario;No pobre
 1000000;EEB (3er ciclo);No pobre
@@ -7210,9 +7210,9 @@ Militar/Policial (Post no universitario)000000;Maestría (Post universitario);No
 7500000;Maestría (Post universitario);No pobre
 6500000;Técnica Superior;No pobre
 27000000;Maestría (Post universitario);No pobre
-No obtuvo000000;Superior Universitario;No pobre
+14000000;Superior Universitario;No pobre
 2800000;Superior Universitario;No pobre
-3Militar/Policial (Post no universitario)5000;No obtuvo;No pobre
+3125000;No obtuvo;No pobre
 2950000;No obtuvo;No pobre
 10000000;Superior Universitario;No pobre
 4200000;Superior Universitario;No pobre
@@ -7259,7 +7259,7 @@ No obtuvo000000;Superior Universitario;No pobre
 0;No obtuvo;No pobre
 2400000;No obtuvo;No pobre
 0;EEB (1º y 2º ciclo);No pobre
-No Técnico Superior (Post no universitario)00000;EEB (1º y 2º ciclo);No pobre
+1300000;EEB (1º y 2º ciclo);No pobre
 0;Superior Universitario;Pobre no extremo
 6000000;No obtuvo;No pobre
 4200000;Superior Universitario;No pobre
@@ -7325,7 +7325,7 @@ No Técnico Superior (Post no universitario)00000;EEB (1º y 2º ciclo);No pobre
 2800000;Técnica Superior;No pobre
 2500000;EEB (1º y 2º ciclo);No pobre
 3000000;Superior Universitario;No pobre
-No obtuvo500000;Superior Universitario;No pobre
+14500000;Superior Universitario;No pobre
 7000000;Superior Universitario;No pobre
 2000000;No obtuvo;Pobre no extremo
 400000;No obtuvo;Pobre no extremo
@@ -7338,7 +7338,7 @@ No obtuvo500000;Superior Universitario;No pobre
 2000000;Técnica Superior;No pobre
 2000000;No obtuvo;No pobre
 2500000;No obtuvo;No pobre
-No Técnico Superior (Post no universitario)200000;Superior Universitario;No pobre
+13200000;Superior Universitario;No pobre
 1000000;Superior Universitario;No pobre
 3500000;Superior Universitario;No pobre
 3500000;Superior Universitario;No pobre
@@ -7352,7 +7352,7 @@ No Técnico Superior (Post no universitario)200000;Superior Universitario;No pob
 2500000;No obtuvo;No pobre
 5000000;Militar/Policial (Post no universitario);No pobre
 5000000;Maestría (Post universitario);No pobre
-No Técnico Superior (Post no universitario)000000;Superior Universitario;No pobre
+13000000;Superior Universitario;No pobre
 600000;Superior Universitario;No pobre
 6000000;No obtuvo;No pobre
 0;No obtuvo;No pobre
@@ -7392,7 +7392,7 @@ No Técnico Superior (Post no universitario)000000;Superior Universitario;No pob
 1600000;No obtuvo;Pobre no extremo
 3000000;Especialización (Post universitario);No pobre
 4200000;No obtuvo;No pobre
-Militar/Policial (Post no universitario)20000;No obtuvo;No pobre
+1220000;No obtuvo;No pobre
 0;Militar/Policial;No pobre
 2200000;No obtuvo;No pobre
 3000000;No obtuvo;No pobre
@@ -7420,7 +7420,7 @@ Militar/Policial (Post no universitario)20000;No obtuvo;No pobre
 0;No obtuvo;No pobre
 6800000;No obtuvo;No pobre
 3500000;No obtuvo;No pobre
-36Militar/Policial (Post no universitario)000;No obtuvo;No pobre
+3612000;No obtuvo;No pobre
 3396000;Técnica Superior;No pobre
 5000000;No obtuvo;No pobre
 2500000;No obtuvo;No pobre
@@ -7433,7 +7433,7 @@ Militar/Policial (Post no universitario)20000;No obtuvo;No pobre
 0;No obtuvo;No pobre
 3080000;Superior Universitario;No pobre
 2600000;Técnica Superior;No pobre
-6Militar/Policial (Post no universitario)0000;Superior Universitario;No pobre
+6120000;Superior Universitario;No pobre
 4000000;Superior Universitario;No pobre
 3500000;No obtuvo;No pobre
 4850000;No obtuvo;No pobre
@@ -7538,7 +7538,7 @@ Militar/Policial (Post no universitario)20000;No obtuvo;No pobre
 0;No obtuvo;No pobre
 0;No obtuvo;No pobre
 3000000;EEB (1º y 2º ciclo);No pobre
-No obtuvo40000;No obtuvo;No pobre
+1440000;No obtuvo;No pobre
 3000000;No obtuvo;No pobre
 2000000;No obtuvo;No pobre
 4500000;EEB (1º y 2º ciclo);No pobre
@@ -7560,8 +7560,8 @@ No obtuvo40000;No obtuvo;No pobre
 3000000;Superior Universitario;No pobre
 5400000;Superior Universitario;No pobre
 2000000;Superior Universitario;No pobre
-Militar/Policial (Post no universitario)00000;EEB (3er ciclo);No pobre
-2439No Técnico Superior (Post no universitario)9;No obtuvo;No pobre
+1200000;EEB (3er ciclo);No pobre
+2439139;No obtuvo;No pobre
 2565000;Superior Universitario;No pobre
 4500000;Superior Universitario;No pobre
 4000000;Superior Universitario;No pobre
@@ -7578,14 +7578,14 @@ Militar/Policial (Post no universitario)00000;EEB (3er ciclo);No pobre
 0;No obtuvo;No pobre
 4000000;Superior Universitario;No pobre
 2000000;No obtuvo;No pobre
-No Técnico Superior (Post no universitario)80000;No obtuvo;No pobre
+1380000;No obtuvo;No pobre
 3000000;No obtuvo;No pobre
 0;Técnica Superior;No pobre
 5000000;No obtuvo;No pobre
 0;Superior Universitario;No pobre
 5000000;Superior Universitario;No pobre
 700000;No obtuvo;No pobre
-Militar/Policial (Post no universitario)00000;No obtuvo;No pobre
+1200000;No obtuvo;No pobre
 3500000;No obtuvo;No pobre
 400000;No obtuvo;No pobre
 3200000;Técnica Superior;Pobre no extremo
@@ -7649,14 +7649,14 @@ Militar/Policial (Post no universitario)00000;No obtuvo;No pobre
 4200000;No obtuvo;No pobre
 7000000;No obtuvo;No pobre
 0;No obtuvo;No pobre
-Militar/Policial (Post no universitario)00000;Superior Universitario;No pobre
+1200000;Superior Universitario;No pobre
 3400000;No obtuvo;No pobre
 9000000;Especialización (Post universitario);No pobre
 5000000;Superior Universitario;No pobre
 2550000;Superior Universitario;No pobre
 2300000;No obtuvo;No pobre
 0;No obtuvo;No pobre
-Militar/Policial (Post no universitario)000000;Doctorado (Post universitario);No pobre
+12000000;Doctorado (Post universitario);No pobre
 0;Superior Universitario;No pobre
 2400000;No obtuvo;No pobre
 0;Técnica Superior;No pobre
@@ -7677,7 +7677,7 @@ Militar/Policial (Post no universitario)000000;Doctorado (Post universitario);No
 2000000;EEB (1º y 2º ciclo);No pobre
 2320000;Técnica Superior;No pobre
 0;No obtuvo;No pobre
-Militar/Policial (Post no universitario)00000;No obtuvo;No pobre
+1200000;No obtuvo;No pobre
 8500000;Superior Universitario;No pobre
 3000000;No obtuvo;No pobre
 4600000;No obtuvo;No pobre
@@ -7725,12 +7725,12 @@ Militar/Policial (Post no universitario)00000;No obtuvo;No pobre
 0;No obtuvo;No pobre
 2300000;EEB (1º y 2º ciclo);No pobre
 3000000;No obtuvo;No pobre
-Militar/Policial (Post no universitario)00000;No obtuvo;No pobre
+1200000;No obtuvo;No pobre
 2800000;Superior Universitario;No pobre
 2500000;No obtuvo;No pobre
 3000000;Superior Universitario;No pobre
 2300000;Técnica Superior;No pobre
-No obtuvo000000;Especialización (Post universitario);No pobre
+14000000;Especialización (Post universitario);No pobre
 0;No obtuvo;No pobre
 3080000;No obtuvo;No pobre
 1000000;No obtuvo;No pobre
@@ -7751,7 +7751,7 @@ No obtuvo000000;Especialización (Post universitario);No pobre
 0;No obtuvo;No pobre
 3500000;Técnica Superior;No pobre
 3000000;No obtuvo;No pobre
-No obtuvo00000;No obtuvo;No pobre
+1400000;No obtuvo;No pobre
 6200000;Especialización (Post universitario);No pobre
 4000000;Especialización (Post universitario);No pobre
 2000000;Especialización (Post universitario);No pobre
@@ -7777,7 +7777,7 @@ No obtuvo00000;No obtuvo;No pobre
 0;Superior Universitario;No pobre
 0;No obtuvo;No pobre
 2200000;No obtuvo;No pobre
-7Militar/Policial (Post no universitario)0000;Superior Universitario;No pobre
+7120000;Superior Universitario;No pobre
 6000000;Superior Universitario;No pobre
 6000000;Superior Universitario;No pobre
 7000000;Superior Universitario;No pobre
@@ -7792,7 +7792,7 @@ No obtuvo00000;No obtuvo;No pobre
 5520000;Superior Universitario;No pobre
 10800000;Militar/Policial (Post no universitario);No pobre
 0;Especialización (Post universitario);No pobre
-Militar/Policial (Post no universitario)704679;Maestría (Post universitario);No pobre
+12704679;Maestría (Post universitario);No pobre
 1800000;Superior Universitario;No pobre
 0;Superior Universitario;No pobre
 0;No obtuvo;No pobre
@@ -7836,7 +7836,7 @@ Militar/Policial (Post no universitario)704679;Maestría (Post universitario);No
 5620000;No obtuvo;No pobre
 4000000;Superior Universitario;No pobre
 2950000;No obtuvo;No pobre
-Militar/Policial (Post no universitario)50000;Técnica Superior;No pobre
+1250000;Técnica Superior;No pobre
 0;No obtuvo;No pobre
 4300000;Superior Universitario;No pobre
 2000000;Técnica Superior;No pobre
@@ -7864,7 +7864,7 @@ Militar/Policial (Post no universitario)50000;Técnica Superior;No pobre
 4000000;No obtuvo;No pobre
 450000;No obtuvo;Pobre no extremo
 0;No obtuvo;Pobre no extremo
-No Técnico Superior (Post no universitario)00000;Superior Universitario;No pobre
+1300000;Superior Universitario;No pobre
 4000000;No obtuvo;No pobre
 2500000;No obtuvo;No pobre
 0;Especialización (Post universitario);No pobre
@@ -7885,7 +7885,7 @@ No Técnico Superior (Post no universitario)00000;Superior Universitario;No pobr
 4240000;Técnica Superior;No pobre
 4025000;Técnica Superior;No pobre
 0;No obtuvo;No pobre
-No Técnico Superior (Post no universitario)60000;No obtuvo;No pobre
+1360000;No obtuvo;No pobre
 5500000;Superior Universitario;No pobre
 2600000;Superior Universitario;No pobre
 3000000;EEB (1º y 2º ciclo);No pobre
@@ -8020,7 +8020,7 @@ No Técnico Superior (Post no universitario)60000;No obtuvo;No pobre
 0;No obtuvo;No pobre
 4000000;No obtuvo;No pobre
 2450000;No obtuvo;No pobre
-No obtuvo00000;Superior Universitario;No pobre
+1400000;Superior Universitario;No pobre
 2750000;No obtuvo;No pobre
 3000000;Superior Universitario;No pobre
 2800000;Superior Universitario;No pobre
@@ -8038,7 +8038,7 @@ No obtuvo00000;Superior Universitario;No pobre
 3000000;Superior Universitario;No pobre
 5000000;Superior Universitario;No pobre
 7500000;EEB (1º y 2º ciclo);No pobre
-Militar/Policial (Post no universitario)000000;Superior Universitario;No pobre
+12000000;Superior Universitario;No pobre
 7000000;No obtuvo;No pobre
 3000000;No obtuvo;No pobre
 2450000;No obtuvo;No pobre
@@ -8107,7 +8107,7 @@ Militar/Policial (Post no universitario)000000;Superior Universitario;No pobre
 2700000;No obtuvo;No pobre
 3000000;Superior Universitario;No pobre
 0;Superior Universitario;No pobre
-3No Técnico Superior (Post no universitario)0000;No obtuvo;No pobre
+3130000;No obtuvo;No pobre
 0;No obtuvo;No pobre
 5400000;EEB (1º y 2º ciclo);No pobre
 2000000;Superior Universitario;No pobre
@@ -8146,7 +8146,7 @@ Militar/Policial (Post no universitario)000000;Superior Universitario;No pobre
 2000000;Superior Universitario;No pobre
 0;Superior Universitario;No pobre
 4300000;Superior Universitario;No pobre
-Militar/Policial (Post no universitario)00000;Técnica Superior;No pobre
+1200000;Técnica Superior;No pobre
 0;EEB (1º y 2º ciclo);No pobre
 2500000;No obtuvo;No pobre
 0;No obtuvo;No pobre
@@ -8167,7 +8167,7 @@ Militar/Policial (Post no universitario)00000;Técnica Superior;No pobre
 5300000;Técnica Superior;No pobre
 800000;No obtuvo;No pobre
 8000000;Superior Universitario;No pobre
-2Militar/Policial (Post no universitario)0000;No obtuvo;No pobre
+2120000;No obtuvo;No pobre
 1000000;No obtuvo;No pobre
 0;No obtuvo;No pobre
 2500000;Superior Universitario;No pobre
@@ -8228,7 +8228,7 @@ Militar/Policial (Post no universitario)00000;Técnica Superior;No pobre
 3500000;Superior Universitario;No pobre
 2360000;Especialización (Post universitario);No pobre
 4280000;Superior Universitario;No pobre
-65Militar/Policial (Post no universitario)084;Militar/Policial;No pobre
+6512084;Militar/Policial;No pobre
 6033060;Maestría (Post universitario);No pobre
 0;No obtuvo;No pobre
 1500000;No obtuvo;No pobre
@@ -8253,7 +8253,7 @@ Militar/Policial (Post no universitario)00000;Técnica Superior;No pobre
 2352000;Especialización (Post universitario);No pobre
 4400000;Especialización (Post universitario);No pobre
 8500000;Especialización (Post universitario);No pobre
-Militar/Policial (Post no universitario)73000;Superior Universitario;No pobre
+1273000;Superior Universitario;No pobre
 4290000;Superior Universitario;No pobre
 3000000;EEB (1º y 2º ciclo);No pobre
 0;No obtuvo;No pobre
@@ -8270,11 +8270,11 @@ Militar/Policial (Post no universitario)73000;Superior Universitario;No pobre
 3500000;Superior Universitario;No pobre
 3000000;Superior Universitario;No pobre
 2370000;No obtuvo;No pobre
-26No obtuvo000;Superior Universitario;No pobre
+2614000;Superior Universitario;No pobre
 6419865;Maestría (Post universitario);No pobre
 400000;No obtuvo;Pobre no extremo
 1600000;No obtuvo;No pobre
-407Militar/Policial (Post no universitario)97;Militar/Policial;No pobre
+4071297;Militar/Policial;No pobre
 2200000;No obtuvo;No pobre
 0;No obtuvo;No pobre
 0;EEB (3er ciclo);No pobre
@@ -8289,22 +8289,22 @@ Militar/Policial (Post no universitario)73000;Superior Universitario;No pobre
 2300000;Superior Universitario;No pobre
 3000000;Superior Universitario;No pobre
 2500000;Superior Universitario;No pobre
-No obtuvo000000;Superior Universitario;No pobre
-No obtuvo000000;Superior Universitario;No pobre
+14000000;Superior Universitario;No pobre
+14000000;Superior Universitario;No pobre
 3800000;No obtuvo;No pobre
 2200000;No obtuvo;No pobre
 1800000;Superior Universitario;No pobre
 2195000;No obtuvo;No pobre
 3700000;Formación Docente (Post no universitario);No pobre
-Militar/Policial (Post no universitario)000000;Superior Universitario;No pobre
+12000000;Superior Universitario;No pobre
 2000000;No obtuvo;No pobre
 4000000;No obtuvo;No pobre
 0;Superior Universitario;No pobre
 0;EEB (1º y 2º ciclo);No pobre
-No obtuvo500000;Superior Universitario;No pobre
+14500000;Superior Universitario;No pobre
 0;Educación Media;No pobre
 0;No obtuvo;Pobre no extremo
-No obtuvo00000;Educación Media;Pobre no extremo
+1400000;Educación Media;Pobre no extremo
 0;EEB (1º y 2º ciclo);No pobre
 3000000;No obtuvo;No pobre
 0;Superior Universitario;No pobre
@@ -8342,7 +8342,7 @@ No obtuvo00000;Educación Media;Pobre no extremo
 3000000;No obtuvo;No pobre
 5500000;Maestría (Post universitario);No pobre
 2500000;Superior Universitario;No pobre
-Militar/Policial (Post no universitario)00000;Superior Universitario;No pobre
+1200000;Superior Universitario;No pobre
 4200000;No obtuvo;No pobre
 2800000;Superior Universitario;No pobre
 1650000;Superior Universitario;No pobre
@@ -8354,7 +8354,7 @@ Militar/Policial (Post no universitario)00000;Superior Universitario;No pobre
 7500000;Maestría (Post universitario);No pobre
 500000;Maestría (Post universitario);No pobre
 1500000;Especialización (Post universitario);No pobre
-Militar/Policial (Post no universitario)00000;No obtuvo;No pobre
+1200000;No obtuvo;No pobre
 400000;No obtuvo;No pobre
 2000000;Especialización (Post universitario);No pobre
 4200000;Superior Universitario;No pobre
@@ -8371,7 +8371,7 @@ Militar/Policial (Post no universitario)00000;No obtuvo;No pobre
 3000000;Superior Universitario;No pobre
 8300000;Especialización (Post universitario);No pobre
 2500000;Especialización (Post universitario);No pobre
-No obtuvo40000;No obtuvo;No pobre
+1440000;No obtuvo;No pobre
 240000;No obtuvo;Pobre no extremo
 7200000;No obtuvo;No pobre
 0;No obtuvo;No pobre
@@ -8389,11 +8389,11 @@ No obtuvo40000;No obtuvo;No pobre
 3500000;Superior Universitario;No pobre
 2700000;No obtuvo;Pobre no extremo
 400000;No obtuvo;Pobre no extremo
-Militar/Policial (Post no universitario)00000;No obtuvo;No pobre
+1200000;No obtuvo;No pobre
 0;No obtuvo;No pobre
-Militar/Policial (Post no universitario)00000;Técnica Superior;No pobre
+1200000;Técnica Superior;No pobre
 2200000;No obtuvo;No pobre
-No obtuvo87000;Superior Universitario;No pobre
+1487000;Superior Universitario;No pobre
 0;No obtuvo;No pobre
 0;No obtuvo;No pobre
 0;No obtuvo;No pobre
@@ -8422,7 +8422,7 @@ No obtuvo87000;Superior Universitario;No pobre
 20000000;Superior Universitario;No pobre
 0;Superior Universitario;No pobre
 0;No obtuvo;No pobre
-Militar/Policial (Post no universitario)00000;No obtuvo;No pobre
+1200000;No obtuvo;No pobre
 4000000;No obtuvo;No pobre
 0;Superior Universitario;No pobre
 6000000;Superior Universitario;No pobre
@@ -8455,7 +8455,7 @@ Militar/Policial (Post no universitario)00000;No obtuvo;No pobre
 2000000;No obtuvo;No pobre
 0;Educación Media;No pobre
 0;Educación Media;No pobre
-Militar/Policial (Post no universitario)00000;No obtuvo;No pobre
+1200000;No obtuvo;No pobre
 0;Superior Universitario;No pobre
 0;No obtuvo;No pobre
 4200000;EEB (3er ciclo);Pobre no extremo
@@ -8470,7 +8470,7 @@ Militar/Policial (Post no universitario)00000;No obtuvo;No pobre
 0;Superior Universitario;No pobre
 0;No obtuvo;No pobre
 0;No obtuvo;No pobre
-2No obtuvo2258;Superior Universitario;No pobre
+2142258;Superior Universitario;No pobre
 2600000;Técnica Superior;No pobre
 0;No obtuvo;No pobre
 4565000;Militar/Policial;No pobre
@@ -8484,7 +8484,7 @@ Militar/Policial (Post no universitario)00000;No obtuvo;No pobre
 8000000;Especialización (Post universitario);No pobre
 0;Superior Universitario;No pobre
 2000000;Superior Universitario;No pobre
-Militar/Policial (Post no universitario)00000;No obtuvo;No pobre
+1200000;No obtuvo;No pobre
 4500000;No obtuvo;No pobre
 800000;No obtuvo;No pobre
 1800000;No obtuvo;Pobre no extremo
@@ -8508,7 +8508,7 @@ Militar/Policial (Post no universitario)00000;No obtuvo;No pobre
 1500000;Superior Universitario;No pobre
 3300000;Superior Universitario;No pobre
 680000;Técnica Superior;No pobre
-No Técnico Superior (Post no universitario)00000;Superior Universitario;No pobre
+1300000;Superior Universitario;No pobre
 1500000;EEB (1º y 2º ciclo);No pobre
 1000000;No obtuvo;No pobre
 5200000;No obtuvo;No pobre
@@ -8523,7 +8523,7 @@ No Técnico Superior (Post no universitario)00000;Superior Universitario;No pobr
 2400000;No obtuvo;No pobre
 2200000;No obtuvo;No pobre
 3000000;No obtuvo;No pobre
-Militar/Policial (Post no universitario)00000;Superior Universitario;No pobre
+1200000;Superior Universitario;No pobre
 1500000;No obtuvo;No pobre
 3500000;Especialización (Post universitario);No pobre
 2550000;Superior Universitario;No pobre
@@ -8561,10 +8561,10 @@ Militar/Policial (Post no universitario)00000;Superior Universitario;No pobre
 3000000;Superior Universitario;No pobre
 2500000;No obtuvo;No pobre
 0;No obtuvo;No pobre
-Militar/Policial (Post no universitario)00000;No obtuvo;No pobre
+1200000;No obtuvo;No pobre
 1900000;Superior Universitario;No pobre
 2400000;No obtuvo;No pobre
-Militar/Policial (Post no universitario)00000;Superior Universitario;No pobre
+1200000;Superior Universitario;No pobre
 0;Superior Universitario;No pobre
 0;Superior Universitario;Pobre no extremo
 0;Superior Universitario;No pobre
@@ -8575,7 +8575,7 @@ Militar/Policial (Post no universitario)00000;Superior Universitario;No pobre
 2300000;No obtuvo;Pobre no extremo
 0;No obtuvo;No pobre
 1500000;No obtuvo;No pobre
-Militar/Policial (Post no universitario)00000;Superior Universitario;No pobre
+1200000;Superior Universitario;No pobre
 4700000;No obtuvo;No pobre
 7000000;No obtuvo;No pobre
 7000000;No obtuvo;No pobre
@@ -8594,7 +8594,7 @@ Militar/Policial (Post no universitario)00000;Superior Universitario;No pobre
 3500000;Superior Universitario;No pobre
 10000000;Superior Universitario;No pobre
 2500000;Superior Universitario;No pobre
-Militar/Policial (Post no universitario)00000;No obtuvo;No pobre
+1200000;No obtuvo;No pobre
 400000;Superior Universitario;No pobre
 2500000;No obtuvo;No pobre
 4300000;Educación Inicial;No pobre
@@ -8610,8 +8610,8 @@ Militar/Policial (Post no universitario)00000;No obtuvo;No pobre
 0;No obtuvo;Pobre no extremo
 5000000;Superior Universitario;No pobre
 5000000;Superior Universitario;No pobre
-Militar/Policial (Post no universitario)000000;Especialización (Post universitario);No pobre
-Militar/Policial (Post no universitario)000000;Especialización (Post universitario);No pobre
+12000000;Especialización (Post universitario);No pobre
+12000000;Especialización (Post universitario);No pobre
 0;Superior Universitario;No pobre
 0;No obtuvo;No pobre
 3200000;Superior Universitario;No pobre
@@ -8620,7 +8620,7 @@ Militar/Policial (Post no universitario)000000;Especialización (Post universita
 6000000;Superior Universitario;No pobre
 2000000;Superior Universitario;No pobre
 6000000;Superior Universitario;No pobre
-Militar/Policial (Post no universitario)000000;Superior Universitario;No pobre
+12000000;Superior Universitario;No pobre
 5500000;Superior Universitario;No pobre
 0;No obtuvo;No pobre
 3000000;Superior Universitario;No pobre
@@ -8633,7 +8633,7 @@ Militar/Policial (Post no universitario)000000;Superior Universitario;No pobre
 3000000;Superior Universitario;No pobre
 0;No obtuvo;No pobre
 0;Superior Universitario;No pobre
-Militar/Policial (Post no universitario)00000;Superior Universitario;No pobre
+1200000;Superior Universitario;No pobre
 200000;No obtuvo;No pobre
 2500000;Superior Universitario;No pobre
 2700000;Superior Universitario;No pobre
@@ -8694,7 +8694,7 @@ Militar/Policial (Post no universitario)00000;Superior Universitario;No pobre
 5500000;Superior Universitario;No pobre
 0;Superior Universitario;No pobre
 4170000;Superior Universitario;No pobre
-Militar/Policial (Post no universitario)000000;Superior Universitario;No pobre
+12000000;Superior Universitario;No pobre
 0;No obtuvo;No pobre
 2000000;No obtuvo;No pobre
 4292600;No obtuvo;No pobre
@@ -8736,7 +8736,7 @@ Militar/Policial (Post no universitario)000000;Superior Universitario;No pobre
 4000000;Superior Universitario;No pobre
 7250000;Superior Universitario;No pobre
 3000000;Superior Universitario;No pobre
-No Técnico Superior (Post no universitario)00000;EEB (1º y 2º ciclo);No pobre
+1300000;EEB (1º y 2º ciclo);No pobre
 0;No obtuvo;No pobre
 1000000;No obtuvo;No pobre
 0;Superior Universitario;No pobre
@@ -8818,7 +8818,7 @@ No Técnico Superior (Post no universitario)00000;EEB (1º y 2º ciclo);No pobre
 0;No obtuvo;No pobre
 400000;Superior Universitario;No pobre
 1000000;No obtuvo;No pobre
-No Técnico Superior (Post no universitario)00000;Superior Universitario;No pobre
+1300000;Superior Universitario;No pobre
 2300000;Superior Universitario;No pobre
 3000000;Superior Universitario;No pobre
 1755000;No obtuvo;No pobre
@@ -8860,7 +8860,7 @@ No Técnico Superior (Post no universitario)00000;Superior Universitario;No pobr
 0;No obtuvo;Pobre no extremo
 15000000;No obtuvo;No pobre
 2500000;No obtuvo;No pobre
-No Técnico Superior (Post no universitario)00000;No obtuvo;No pobre
+1300000;No obtuvo;No pobre
 800000;No obtuvo;No pobre
 1800000;No obtuvo;No pobre
 2500000;No obtuvo;No pobre
@@ -8949,7 +8949,7 @@ No Técnico Superior (Post no universitario)00000;No obtuvo;No pobre
 0;No obtuvo;No pobre
 2500000;No obtuvo;No pobre
 700000;No obtuvo;No pobre
-No obtuvo80000;No obtuvo;No pobre
+1480000;No obtuvo;No pobre
 0;No obtuvo;Pobre no extremo
 1800000;No obtuvo;No pobre
 1500000;No obtuvo;No pobre
@@ -8981,7 +8981,7 @@ No obtuvo80000;No obtuvo;No pobre
 0;EEB (1º y 2º ciclo);No pobre
 0;No obtuvo;No pobre
 0;Superior Universitario;No pobre
-Militar/Policial (Post no universitario)00000;No obtuvo;Pobre no extremo
+1200000;No obtuvo;Pobre no extremo
 3000000;Superior Universitario;No pobre
 10000000;No obtuvo;No pobre
 0;Especialización (Post universitario);No pobre
@@ -8999,7 +8999,7 @@ Militar/Policial (Post no universitario)00000;No obtuvo;Pobre no extremo
 540000;No obtuvo;Pobre no extremo
 7000000;Militar/Policial;No pobre
 2500000;No obtuvo;No pobre
-1No obtuvo0000;EEB (3er ciclo);Pobre no extremo
+1140000;EEB (3er ciclo);Pobre no extremo
 3840000;No obtuvo;No pobre
 0;No obtuvo;Pobre no extremo
 0;No obtuvo;Pobre no extremo
@@ -9033,7 +9033,7 @@ Militar/Policial (Post no universitario)00000;No obtuvo;Pobre no extremo
 4500000;No obtuvo;No pobre
 5190000;Superior Universitario;No pobre
 7450000;Superior Universitario;No pobre
-No obtuvo00000;No obtuvo;No pobre
+1400000;No obtuvo;No pobre
 0;Educación Media;No pobre
 1700000;No obtuvo;No pobre
 0;No obtuvo;Pobre no extremo
@@ -9102,7 +9102,7 @@ No obtuvo00000;No obtuvo;No pobre
 2550000;No obtuvo;No pobre
 2500000;Superior Universitario;No pobre
 3000000;Técnica Superior;No pobre
-No obtuvo600000;Superior Universitario;No pobre
+14600000;Superior Universitario;No pobre
 0;Superior Universitario;No pobre
 5700000;No obtuvo;No pobre
 0;Superior Universitario;No pobre
@@ -9128,7 +9128,7 @@ No obtuvo600000;Superior Universitario;No pobre
 0;Superior Universitario;No pobre
 6000000;EEB (1º y 2º ciclo);No pobre
 6200000;EEB (1º y 2º ciclo);No pobre
-Militar/Policial (Post no universitario)50000;Superior Universitario;No pobre
+1250000;Superior Universitario;No pobre
 2500000;Superior Universitario;No pobre
 6500000;EEB (1º y 2º ciclo);No pobre
 6500000;EEB (1º y 2º ciclo);No pobre
@@ -9163,7 +9163,7 @@ Militar/Policial (Post no universitario)50000;Superior Universitario;No pobre
 3000000;Formación Docente (Post no universitario);No pobre
 2000000;EEB (1º y 2º ciclo);No pobre
 8000000;Superior Universitario;No pobre
-5Militar/Policial (Post no universitario)0000;Superior Universitario;No pobre
+5120000;Superior Universitario;No pobre
 2500000;Superior Universitario;No pobre
 0;Técnica Superior;No pobre
 2900000;No obtuvo;No pobre
@@ -9226,7 +9226,7 @@ Militar/Policial (Post no universitario)50000;Superior Universitario;No pobre
 0;No obtuvo;No pobre
 3000000;No obtuvo;No pobre
 0;No obtuvo;No pobre
-7No Técnico Superior (Post no universitario)0000;Superior Universitario;No pobre
+7130000;Superior Universitario;No pobre
 5500000;Técnica Superior;No pobre
 4800000;Militar/Policial;No pobre
 0;Técnica Superior;No pobre
@@ -9243,7 +9243,7 @@ Militar/Policial (Post no universitario)50000;Superior Universitario;No pobre
 3500000;Superior Universitario;No pobre
 2700000;Superior Universitario;No pobre
 2200000;No obtuvo;No pobre
-Militar/Policial (Post no universitario)00000;No obtuvo;No pobre
+1200000;No obtuvo;No pobre
 4150000;Maestría (Post universitario);No pobre
 2000000;No obtuvo;No pobre
 0;Superior Universitario;Pobre no extremo
@@ -9256,7 +9256,7 @@ Militar/Policial (Post no universitario)00000;No obtuvo;No pobre
 0;Superior Universitario;No pobre
 3800000;Superior Universitario;No pobre
 3500000;Superior Universitario;No pobre
-No obtuvo25000;No obtuvo;Pobre no extremo
+1425000;No obtuvo;Pobre no extremo
 2500000;No obtuvo;No pobre
 0;No obtuvo;No pobre
 3500000;No obtuvo;No pobre
@@ -9349,7 +9349,7 @@ No obtuvo25000;No obtuvo;Pobre no extremo
 0;No obtuvo;Pobre extremo
 2500000;No obtuvo;No pobre
 3000000;Superior Universitario;No pobre
-Militar/Policial (Post no universitario)00000;No obtuvo;No pobre
+1200000;No obtuvo;No pobre
 0;Superior Universitario;Pobre no extremo
 2500000;EEB (1º y 2º ciclo);No pobre
 4000000;Superior Universitario;No pobre
@@ -9362,7 +9362,7 @@ Militar/Policial (Post no universitario)00000;No obtuvo;No pobre
 6000000;Maestría (Post universitario);No pobre
 4400000;No obtuvo;No pobre
 6500000;Superior Universitario;No pobre
-Militar/Policial (Post no universitario)00000;Educación Media;No pobre
+1200000;Educación Media;No pobre
 3000000;No obtuvo;No pobre
 1000000;Superior Universitario;No pobre
 400000;No obtuvo;No pobre
